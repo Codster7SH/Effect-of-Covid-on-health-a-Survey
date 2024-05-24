@@ -1,0 +1,1001 @@
+Age,Gender,Occupation,Location,Pre_Chronic_Disease,Pre_BMI,Pre_Physical_Activity,Pre_Mental_Health,Post_Chronic_Disease,Post_BMI,Post_Physical_Activity,Post_Mental_Health
+32,Male,"Production assistant, radio",Hajipur,Yes,20.25707641663794,High,Good,Yes,19.86373233918513,Medium,Moderate
+31,Male,Radiation protection practitioner,Patiala,Yes,30.135808802734722,Low,Good,No,30.780088483892808,Medium,Good
+23,Male,Speech and language therapist,Saharanpur,No,26.86726829809337,High,Good,No,28.09637493556972,Low,Moderate
+24,Male,Youth worker,Guna,Yes,31.22961624882393,High,Good,No,31.713323670276214,Low,Good
+32,Male,"Therapist, occupational",Visakhapatnam,No,28.81025412316255,Medium,Good,No,29.108527329189915,Medium,Good
+34,Male,Paediatric nurse,Mangalore,No,26.208717443810194,Low,Good,No,27.33973055876839,Low,Poor
+33,Male,Medical sales representative,Khammam,No,37.61203200317023,High,Good,No,38.71811562898864,High,Poor
+32,Female,Hotel manager,Kottayam,No,17.57834538624325,Low,Poor,Yes,19.361639948796416,Medium,Good
+35,Male,Armed forces technical officer,Muzaffarpur,Yes,24.932638460754042,Medium,Moderate,No,25.68757299233302,Medium,Moderate
+31,Female,Community pharmacist,Nellore,No,22.648008309391678,Low,Moderate,Yes,23.820381987786053,Medium,Good
+30,Female,"Psychologist, forensic",Tumkur,No,28.319763680447263,High,Good,No,28.369096979479455,Medium,Good
+34,Male,Consulting civil engineer,Mango,No,32.82948964741209,High,Moderate,Yes,33.32682006586255,Medium,Good
+33,Male,Regulatory affairs officer,Siliguri,Yes,29.18484621054829,Low,Good,Yes,30.827348903397905,Low,Poor
+34,Male,Financial trader,Satara,No,23.669665510771456,High,Good,No,23.682172065205652,Low,Good
+31,Female,Proofreader,Farrukhabad,No,17.01243415027509,High,Moderate,No,18.52605591371352,Low,Moderate
+32,Female,"Journalist, broadcasting",Kurnool,No,16.51948473505443,Low,Good,Yes,17.294098441085417,Low,Good
+22,Male,Textile designer,Gurgaon,No,27.292941230341622,Low,Good,No,26.929047277635668,Low,Good
+24,Male,"Librarian, academic",Chapra,No,26.344244097663083,High,Good,No,28.715001682051234,Low,Good
+25,Female,"Lecturer, higher education",Tirupati,No,10.986093985912024,Medium,Good,No,11.225484424550528,High,Good
+35,Male,Community development worker,Akola,No,21.060120534565257,High,Good,Yes,22.309426610706343,Low,Moderate
+28,Male,Graphic designer,Shimoga,No,36.425219994690735,Low,Good,No,38.326971984117456,Medium,Good
+26,Female,"Psychologist, prison and probation services",Munger,No,29.452158721278796,Medium,Poor,No,31.70455490359585,Low,Good
+34,Female,Radio broadcast assistant,Imphal,No,22.425012229987097,Medium,Good,No,24.046089108208157,High,Moderate
+34,Male,Press sub,Kumbakonam,No,24.111328192297115,Medium,Good,No,25.328293872025675,Low,Good
+25,Male,Print production planner,Mumbai,No,27.51999145428057,Medium,Good,Yes,29.104810995593475,Low,Good
+26,Male,"Radiographer, diagnostic",Pondicherry,No,27.449808243741177,Medium,Moderate,No,27.21114587629316,Low,Good
+34,Male,"Engineer, maintenance",Nashik,Yes,24.19112551878463,Low,Good,No,25.37944280919406,Medium,Poor
+29,Male,Geoscientist,Coimbatore,No,20.095803957562907,Low,Good,Yes,21.390890801137957,Low,Moderate
+22,Female,Trading standards officer,Bellary,No,16.15626480103741,High,Good,Yes,18.865485561294268,Low,Good
+22,Male,Exercise physiologist,Serampore,No,30.171237027814563,High,Good,Yes,31.695727369297956,Low,Good
+28,Female,Oncologist,Sagar,No,24.141765238818046,Low,Moderate,No,23.86102766181137,Low,Moderate
+35,Male,Theatre manager,Baranagar,Yes,25.733867734470344,Low,Good,No,25.63452609164914,Low,Moderate
+34,Female,Theatre manager,Gangtok,Yes,24.678094972689923,High,Good,No,24.57824637745813,Medium,Moderate
+26,Male,Accommodation manager,Kolhapur,No,17.910604905116504,Medium,Good,No,19.244524399889503,Low,Moderate
+32,Female,Exhibition designer,Pimpri-Chinchwad,No,15.596121796450523,High,Poor,No,17.31630745565652,High,Poor
+32,Female,Curator,Guwahati,No,26.172065892802642,Low,Moderate,No,28.187187344461112,High,Good
+32,Male,Amenity horticulturist,Malda,No,36.587822048731184,Medium,Good,No,36.781074612228146,Low,Moderate
+34,Female,Historic buildings inspector/conservation officer,Bardhaman,Yes,17.589530277865517,Medium,Good,No,18.89944813731948,Medium,Poor
+26,Female,"Scientist, marine",Jalandhar,No,34.58982450725042,High,Moderate,No,36.366777254976896,Medium,Poor
+34,Male,Medical technical officer,Dharmavaram,No,21.755920112563818,Low,Good,Yes,21.73648479343237,High,Good
+34,Female,Clinical psychologist,Satna,No,31.5081648032821,Low,Good,Yes,33.14637030131806,Low,Good
+26,Male,Cabin crew,Bettiah,No,25.138904539151305,Low,Moderate,Yes,25.782672680225556,Medium,Good
+29,Male,Hotel manager,Sirsa,No,29.78101678303471,High,Good,No,29.258611235000174,Medium,Poor
+35,Female,Dietitian,Bulandshahr,No,25.552506647720726,Medium,Good,No,26.796873455525166,Medium,Good
+23,Female,Colour technologist,Bhusawal,No,29.302180171864876,Medium,Good,No,30.61699386640747,High,Moderate
+27,Female,"Administrator, education",Raiganj,No,24.39614199098385,High,Moderate,No,25.02354336572109,High,Moderate
+27,Male,Clinical embryologist,Jhansi,No,32.623574983712544,High,Good,No,34.89854493178046,Low,Good
+22,Male,Database administrator,Pallavaram,No,20.67903056895416,High,Good,Yes,22.07859048682644,Low,Good
+35,Male,Mining engineer,Burhanpur,Yes,18.27521052768808,High,Good,No,19.347172951350725,Low,Moderate
+27,Male,Catering manager,Kochi,Yes,21.732778356113784,Medium,Good,No,21.96868462977067,Low,Moderate
+33,Male,IT consultant,Dehradun,No,26.324301530339415,Low,Good,No,27.168036909637017,Medium,Good
+25,Female,"Engineer, building services",Udupi,No,26.610437236639108,Low,Good,No,27.92303447203663,High,Good
+29,Female,Fisheries officer,Kalyan-Dombivli,No,27.265016567235595,High,Good,No,28.429065760078316,Medium,Moderate
+28,Male,Speech and language therapist,Vijayanagaram,No,27.269112826751762,Medium,Good,Yes,28.63739645348551,Medium,Poor
+25,Male,Electrical engineer,Anantapur,Yes,32.071808742781535,High,Good,No,31.91347785172522,Low,Good
+32,Female,"Surveyor, minerals",Ujjain,Yes,25.747654234105372,Low,Poor,No,27.402596620746586,Low,Good
+32,Male,Fisheries officer,Sultan Pur Majra,No,28.359345040814276,Medium,Good,No,29.576025353165207,High,Poor
+23,Female,Quarry manager,Katni,No,24.665222402763163,High,Good,Yes,26.497520333243184,Medium,Moderate
+35,Female,Hotel manager,Kurnool,No,25.653237380029896,Low,Good,No,27.86668547488665,Medium,Poor
+24,Male,Energy manager,Burhanpur,No,30.759165913075094,Low,Good,No,33.388347876356924,High,Poor
+24,Male,"Engineer, production",Bilaspur,No,14.597184161779124,High,Good,No,15.606810991795946,Low,Good
+23,Female,Probation officer,Mehsana,No,27.782484432683763,High,Good,No,28.660047968881614,Low,Good
+35,Female,"Loss adjuster, chartered",Junagadh,Yes,27.032820675897607,Medium,Good,No,27.84603968001716,Medium,Poor
+25,Female,Health promotion specialist,Alappuzha,No,31.33186531587859,High,Moderate,No,33.96519509292254,Medium,Good
+30,Male,IT sales professional,Deoghar,No,31.930207444599752,Low,Good,Yes,33.218774781907044,Low,Good
+27,Male,Quality manager,Agartala,No,26.01476357603992,High,Poor,Yes,25.768188640115298,Low,Moderate
+32,Female,"Biochemist, clinical",Bahraich,No,30.639903293526768,High,Good,Yes,30.784126926771318,Medium,Moderate
+31,Male,Speech and language therapist,Bardhaman,Yes,17.969992755469185,Medium,Good,No,18.49758408337049,Medium,Good
+23,Male,Retail buyer,Kanpur,No,19.533662601757445,High,Good,No,22.14840792689114,Medium,Moderate
+33,Female,Make,Guntakal,No,30.138382312812634,Medium,Good,No,30.13449768639517,Medium,Moderate
+29,Male,Medical illustrator,Kamarhati,Yes,25.564752977715713,High,Moderate,No,27.642897170326005,Medium,Good
+26,Male,Facilities manager,Varanasi,No,23.4537935359246,Medium,Good,No,23.714786430499764,Low,Good
+34,Male,Primary school teacher,Imphal,No,21.900484381326375,Medium,Poor,Yes,23.252185630288054,Low,Moderate
+34,Male,"Pharmacist, community",Hapur,Yes,22.263861808349258,Medium,Good,Yes,22.57595409220238,Low,Good
+33,Male,"Accountant, chartered certified",Ramgarh,No,21.34224906447835,High,Moderate,No,22.137803918696005,High,Moderate
+35,Female,"Engineer, manufacturing systems",Ahmednagar,No,28.48797484681721,Low,Good,Yes,30.34606243299051,Medium,Good
+35,Male,Risk analyst,Aligarh,Yes,27.142695080706243,Medium,Good,No,28.764712617243283,High,Good
+29,Male,Financial adviser,Rajkot,No,32.93874939680123,Low,Moderate,Yes,34.21009665317479,Low,Good
+22,Female,"Programmer, multimedia",Singrauli,No,23.6419534160198,Medium,Good,No,24.11272753252642,Medium,Moderate
+24,Male,"Horticulturist, commercial",Jorhat,Yes,22.469238356893296,Low,Good,No,21.54261968374844,High,Poor
+24,Male,Commissioning editor,Vasai-Virar,No,24.366563782062176,Low,Good,No,25.189990077447533,Low,Poor
+34,Female,"Editor, commissioning",Udaipur,No,27.58318438811202,Low,Good,No,28.616122014769847,Medium,Good
+29,Male,English as a second language teacher,Amritsar,No,32.77430252587467,Medium,Good,No,33.01943720147111,Low,Poor
+35,Female,"Administrator, charities/voluntary organisations",Unnao,No,27.31600045363756,Low,Good,No,29.28986727172901,Low,Poor
+25,Male,Mental health nurse,Aizawl,No,29.123864280206718,Medium,Moderate,No,30.640829260022798,High,Moderate
+23,Female,"Scientist, research (life sciences)",Pali,Yes,22.270641745299596,High,Good,No,21.309078763737094,Low,Good
+32,Male,Dance movement psychotherapist,Tumkur,Yes,26.449838713136256,High,Good,No,28.493096008987685,Medium,Good
+23,Male,Mudlogger,Kanpur,No,31.53453870828647,Low,Moderate,No,32.86688218810526,Medium,Good
+27,Male,Health service manager,Khora ,No,27.283996413475197,Low,Good,No,29.36498884839177,High,Poor
+24,Male,Advertising account planner,Anantapuram,No,26.784856472874917,Low,Good,No,27.021756315507744,Medium,Poor
+33,Female,Commissioning editor,Gudivada,Yes,26.650434630005286,High,Moderate,No,27.315780532970297,Low,Good
+30,Male,"Research officer, government",Navi Mumbai,No,28.924860357235218,Low,Good,No,28.028952218403628,Medium,Good
+22,Male,Diplomatic Services operational officer,Kavali,Yes,25.980067601680776,Low,Good,No,27.216162086331728,Low,Good
+34,Female,Water quality scientist,Delhi,Yes,29.876628467383803,High,Good,Yes,29.262222263671582,High,Good
+31,Male,"Nurse, mental health",Singrauli,No,20.278520018977026,Medium,Good,Yes,21.910480761738345,Medium,Poor
+25,Male,Training and development officer,Hazaribagh,No,33.69559482236994,Low,Good,Yes,33.475858145972154,Medium,Poor
+23,Female,Media buyer,Pondicherry,Yes,34.87092707632333,Medium,Good,No,36.15926834098065,Medium,Poor
+23,Female,Music tutor,Motihari,No,19.337707924398877,Medium,Moderate,No,22.384246370693166,Medium,Good
+23,Male,Communications engineer,Chandigarh,No,24.952325084999284,Low,Moderate,No,26.55974626611536,High,Moderate
+33,Male,"Development worker, community",Unnao,No,31.18183910419588,High,Good,Yes,31.186572548002808,Low,Good
+30,Male,"Runner, broadcasting/film/video",Coimbatore,No,24.666767155200084,High,Moderate,No,25.85965009850714,Medium,Good
+25,Male,"Teacher, English as a foreign language",Bathinda,No,16.120321731859782,Medium,Good,No,17.045163387041104,Low,Moderate
+32,Female,"Engineer, mining",Darbhanga,No,24.604623432160086,Medium,Poor,No,26.59993493581999,Medium,Good
+22,Female,"Civil engineer, contracting",Jamnagar,No,25.03208921284631,Low,Good,No,25.983349733176176,High,Moderate
+26,Female,Environmental manager,Tinsukia,No,34.189123383255,Low,Good,Yes,33.829007273922386,Medium,Good
+25,Male,Management consultant,Jamnagar,No,27.15095802126158,Medium,Good,No,30.267725716407362,Low,Poor
+27,Male,Records manager,Raipur,No,24.546370978659503,High,Good,No,26.92218919388089,Medium,Good
+34,Male,Systems analyst,Shivpuri,No,26.844644585737267,Medium,Good,No,27.275133930713917,Low,Good
+24,Male,Personal assistant,Amroha,Yes,27.169129576212327,High,Good,No,29.263778451504802,High,Good
+30,Female,Marine scientist,Serampore,No,24.20281647142448,High,Good,No,26.219935475205187,Medium,Good
+31,Female,Estate agent,Singrauli,No,21.485286273339458,Low,Good,No,21.769127252906454,Medium,Poor
+35,Male,"Engineer, manufacturing",Allahabad,No,22.09716452096891,High,Good,No,21.17421040062596,Low,Good
+28,Female,Radiation protection practitioner,Kota,No,24.078596623051673,High,Good,Yes,26.348288709647374,Medium,Good
+23,Male,Chief Strategy Officer,Kirari Suleman Nagar,No,18.522955754850045,High,Moderate,No,20.51559916596861,High,Good
+29,Male,Transport planner,Bilaspur,No,21.34713961514851,Medium,Poor,No,21.438249952986215,Medium,Moderate
+34,Female,"Designer, television/film set",Narasaraopet,No,26.30937790721263,High,Moderate,Yes,28.777233823552578,Medium,Poor
+30,Male,Land/geomatics surveyor,Coimbatore,No,31.46996198771774,High,Moderate,No,33.65679219738722,Medium,Good
+25,Female,Research scientist (life sciences),Mau,No,27.483700482941178,Medium,Moderate,No,28.203980097417624,High,Moderate
+32,Female,Special educational needs teacher,Indore,No,32.33575588976725,Medium,Good,No,33.147936502918256,Low,Good
+27,Female,Adult guidance worker,Kottayam,No,27.52098739507472,High,Good,No,27.37304663585555,Low,Good
+32,Male,Early years teacher,Karaikudi,No,21.327601875165957,Medium,Good,No,21.565720818188222,Medium,Moderate
+28,Female,"Teacher, primary school",Mahbubnagar,No,28.99956315330638,Low,Good,No,30.253839427035114,Low,Good
+33,Female,Actuary,Nandyal,No,23.325890416999844,Medium,Moderate,No,24.32056640045905,Low,Poor
+28,Male,Orthoptist,Berhampore,Yes,28.36559917814024,High,Good,No,28.59765204717796,High,Moderate
+35,Female,Claims inspector/assessor,Warangal,No,22.049676068883,High,Good,Yes,23.72620531059804,Medium,Poor
+29,Female,Risk analyst,Malegaon,No,26.47181902333034,High,Moderate,No,27.234277514857137,Low,Good
+30,Female,Company secretary,Gorakhpur,No,21.738865476756466,High,Moderate,No,23.011885277116875,Low,Moderate
+34,Male,Marine scientist,Deoghar,No,27.062997190314196,Medium,Good,No,27.348443660450595,Medium,Poor
+32,Female,"Surveyor, minerals",Amravati,No,23.101711649030413,Medium,Good,No,23.56249298584525,Medium,Good
+33,Female,Tourist information centre manager,Bettiah,No,28.63954893891645,Low,Good,No,28.658219163221144,Medium,Poor
+31,Female,Careers adviser,Motihari,No,36.86262088176274,Low,Moderate,Yes,36.13203249357236,Medium,Good
+30,Male,Barrister's clerk,Ramagundam,No,19.83069312225264,Low,Good,Yes,22.18919249259285,Medium,Good
+33,Female,Television/film/video producer,Ichalkaranji,Yes,23.856657347489012,Medium,Poor,No,25.2355095346986,High,Moderate
+30,Female,Biomedical engineer,Dindigul,Yes,20.57075588757374,Medium,Good,No,20.33114395532498,Medium,Moderate
+25,Female,Quarry manager,Noida,No,32.31355693290362,High,Good,Yes,32.63369068150668,Low,Poor
+28,Male,Media planner,Tadipatri,Yes,31.538102839241947,High,Moderate,No,32.440964801978595,Low,Poor
+34,Male,Leisure centre manager,Gandhinagar,No,25.30247723967256,Low,Good,No,25.191278377129734,Low,Moderate
+23,Male,Travel agency manager,Nanded,Yes,31.27993752880714,Low,Good,Yes,33.195866750550024,Medium,Moderate
+30,Male,Professor Emeritus,Salem,No,35.811809513738886,Medium,Good,No,35.64426444147397,Low,Poor
+33,Male,Advertising copywriter,Ozhukarai,No,15.338690057989991,Medium,Good,No,15.936486756801727,Low,Moderate
+27,Male,Fish farm manager,Kadapa,No,32.26449122572736,Medium,Good,Yes,31.375457126374613,High,Good
+28,Female,Lexicographer,Siliguri,No,24.110010610732907,Medium,Good,No,24.96834932653438,Low,Poor
+28,Female,Mental health nurse,Satna,Yes,25.828658406607865,Low,Good,No,25.60270323721398,Medium,Moderate
+26,Female,Newspaper journalist,Nagaon,No,23.205264919283874,Low,Good,No,24.83877052499496,High,Good
+22,Female,Management consultant,Shivpuri,No,24.121842853628813,Low,Good,No,23.672897588660994,Medium,Good
+33,Male,Restaurant manager,Vasai-Virar,No,22.0253994397757,High,Good,Yes,23.063320143819706,Medium,Moderate
+25,Female,Graphic designer,Hyderabad,Yes,23.55476812198243,High,Good,No,25.04571083893003,Medium,Poor
+28,Male,Water quality scientist,Tirunelveli,No,24.302689416209777,Medium,Good,Yes,24.91437589908193,Low,Poor
+25,Female,Advertising art director,Hazaribagh,No,21.61341449260733,Low,Moderate,No,23.263249214914993,Medium,Poor
+24,Male,Politician's assistant,Gaya,Yes,25.343518848242642,Medium,Good,No,26.00425804019273,Medium,Moderate
+35,Male,"Administrator, arts",Mira-Bhayandar,No,22.486267231111125,Medium,Good,No,24.755803114324806,High,Good
+28,Male,Physiotherapist,Nangloi Jat,No,31.020457658688088,High,Moderate,No,31.69934009704487,Medium,Moderate
+24,Female,Charity fundraiser,Baranagar,No,34.56189980467944,Medium,Moderate,No,37.012183857258115,High,Moderate
+24,Female,Cabin crew,Tinsukia,No,18.09645547359041,Low,Good,Yes,18.5932187992736,High,Good
+25,Male,Planning and development surveyor,Bareilly,No,28.644522554272754,High,Good,No,27.89585969881862,Medium,Good
+22,Male,Cabin crew,Kota,No,23.81703525884876,Low,Good,No,25.44655537444091,Medium,Moderate
+27,Male,Human resources officer,Allahabad,No,21.988385083438917,High,Moderate,Yes,22.15629925431853,High,Good
+31,Female,"Radiographer, therapeutic",Hindupur,Yes,24.885557889505787,High,Good,No,25.889162011902624,Medium,Moderate
+24,Female,Higher education lecturer,Haridwar,Yes,16.528611105892267,Low,Good,No,17.642996208512127,Medium,Good
+28,Female,Waste management officer,Firozabad,No,18.260330784872174,Medium,Good,No,19.811868529789948,Low,Poor
+22,Male,"Therapist, art",Bihar Sharif,No,28.334400081818703,Medium,Good,No,28.916409527820587,High,Poor
+22,Female,Herbalist,Silchar,No,25.753937351019015,Medium,Moderate,Yes,25.418086825146812,Low,Good
+29,Female,Museum education officer,Kadapa,No,18.966066477992793,High,Good,Yes,18.876384975030582,Medium,Moderate
+34,Female,Furniture conservator/restorer,Jamshedpur,No,24.348078605478026,High,Good,Yes,25.131056112398124,Low,Moderate
+23,Male,Pathologist,Madhyamgram,No,24.204585069409536,Low,Good,No,26.11811661566581,Low,Good
+33,Female,"Pharmacist, community",Aurangabad,No,27.763899192606033,Low,Good,Yes,28.667540286629773,Low,Moderate
+28,Male,Community development worker,Faridabad,No,20.51696702509942,Medium,Good,No,21.127137701413968,High,Moderate
+33,Female,Horticultural consultant,Ambala,No,21.53086656197859,Low,Good,No,22.680924241735376,Medium,Good
+32,Female,"Doctor, hospital",Shimoga,No,27.872839104793183,Low,Good,No,29.15689640230641,High,Good
+31,Female,International aid/development worker,Sagar,Yes,23.806413431671192,Low,Good,No,25.9379184863667,Medium,Moderate
+26,Female,Chartered loss adjuster,Karimnagar,No,12.412026541292905,Low,Good,No,13.985878880067323,High,Good
+30,Male,Retail buyer,Raiganj,No,22.45736876828211,Medium,Good,No,23.860839163480765,Low,Good
+32,Female,"Engineer, materials",Etawah,No,22.764354355774007,Medium,Good,No,23.703033577589185,Low,Good
+29,Male,Seismic interpreter,Rohtak,No,27.061366522384148,Low,Good,No,28.11308428389893,Medium,Poor
+23,Female,Government social research officer,Phusro,No,23.420739911325825,Low,Good,Yes,24.07863494948914,Medium,Poor
+31,Female,Music tutor,Mau,Yes,19.591590973020843,Medium,Moderate,Yes,20.10474695562846,Low,Moderate
+29,Male,Primary school teacher,Muzaffarpur,No,26.206400123895712,High,Good,No,26.218891699690534,Low,Poor
+35,Female,Research scientist (medical),Bilaspur,No,16.996034587107516,High,Poor,No,18.113073072118922,High,Poor
+26,Female,Public affairs consultant,Loni,No,29.249483491976495,Medium,Good,No,30.274345966534394,Low,Good
+23,Female,Chemical engineer,Ramgarh,Yes,30.80420347162942,Low,Good,No,32.233928122911834,Medium,Good
+32,Female,Call centre manager,Ichalkaranji,No,26.003653692962295,Medium,Good,No,27.78950218770343,Low,Moderate
+31,Male,"Conservator, furniture",Rajkot,Yes,30.51538599068639,Medium,Moderate,No,32.15136827946411,Low,Moderate
+35,Male,Landscape architect,Tiruchirappalli,Yes,23.819977686493534,Medium,Poor,No,25.27953189291395,Medium,Moderate
+30,Female,"Physicist, medical",Korba,No,38.41523603523311,Medium,Good,No,40.430281308606574,High,Moderate
+32,Male,Field trials officer,Pudukkottai,No,25.573006739729795,Low,Good,Yes,24.80170506255643,Low,Good
+32,Male,Engineering geologist,Naihati,Yes,22.776819382001534,Low,Good,Yes,24.520807351967253,Low,Moderate
+31,Male,"Scientist, clinical (histocompatibility and immunogenetics)",Nagercoil,No,29.08917278489558,High,Good,No,29.820098539374502,Medium,Good
+29,Female,Photographer,Avadi,No,22.34110297396796,Medium,Poor,Yes,23.708469919778874,Medium,Good
+30,Female,Print production planner,Coimbatore,No,23.32742853970622,Low,Good,No,25.76302745728617,High,Good
+32,Male,Furniture designer,Ozhukarai,Yes,24.722901913239802,Medium,Good,No,27.212667418011613,Medium,Good
+23,Female,"Civil engineer, contracting",Nagercoil,No,31.193872758355973,Low,Moderate,Yes,32.46627993035053,Low,Good
+30,Male,"Designer, industrial/product",Ajmer,No,26.463972628380592,Low,Good,Yes,27.49314842543131,Medium,Good
+23,Male,Translator,Nellore,No,36.17196652005016,Low,Good,No,37.40713082060655,Low,Moderate
+30,Female,Town planner,Nandyal,Yes,31.016869210955115,Low,Good,No,31.32594141656772,Low,Good
+22,Male,"Engineer, communications",Nanded,No,20.181387757024222,Low,Moderate,No,22.376480036959386,Medium,Poor
+26,Male,"Scientist, forensic",Jabalpur,No,27.89383645531761,Medium,Poor,No,28.025915056786193,High,Good
+29,Male,Dancer,Kalyan-Dombivli,Yes,22.65057820023275,Medium,Good,No,22.46462118651801,High,Good
+28,Female,Photographer,Nagpur,No,23.74400984816924,High,Good,No,25.76476540791911,High,Good
+24,Male,Mudlogger,Sambalpur,No,24.828473184353992,High,Good,Yes,25.531610665741557,Low,Moderate
+35,Male,Broadcast presenter,Bathinda,No,23.697135461525612,Medium,Moderate,No,22.67365238943391,Low,Good
+23,Female,Tourism officer,Delhi,No,18.216439596398878,Medium,Good,Yes,19.414831861844267,Medium,Good
+29,Female,"Engineer, aeronautical",Imphal,No,20.455939171839475,High,Good,No,20.31870265200653,Low,Moderate
+23,Male,"Scientist, audiological",Rampur,No,21.667036011785996,Low,Moderate,No,24.807798042101748,High,Good
+28,Female,Exercise physiologist,Fatehpur,No,23.68255402505346,Low,Poor,No,24.99775071663002,Low,Moderate
+24,Male,Outdoor activities/education manager,Kolhapur,No,26.437795487880784,Medium,Good,No,26.40354886030116,Medium,Poor
+26,Male,"Editor, film/video",Pimpri-Chinchwad,No,19.214907673827135,Medium,Good,Yes,20.941396993101172,Medium,Good
+27,Male,"Surveyor, mining",Giridih,No,26.041692658183102,Medium,Good,No,26.94700757433124,Medium,Moderate
+31,Male,Training and development officer,Latur,No,23.749545938897676,High,Good,No,24.61218094546943,Low,Poor
+29,Male,"Engineer, agricultural",Phagwara,No,30.987771115459083,Medium,Moderate,Yes,33.1286768180082,Low,Good
+22,Male,Field seismologist,Anantapuram,No,30.22259022823095,High,Good,Yes,29.81133513360538,High,Good
+24,Male,Publishing copy,Ramgarh,No,27.95950982156916,Medium,Good,No,29.990734860255955,Low,Moderate
+24,Male,Broadcast journalist,Jamnagar,No,18.94837446149665,Medium,Good,No,19.417284744684302,Low,Moderate
+22,Female,Mudlogger,Mathura,Yes,26.19568476904571,Medium,Good,No,27.2774407400253,Medium,Good
+27,Female,Graphic designer,Kollam,No,22.129141431474743,Low,Good,No,24.24882153496312,Low,Good
+26,Female,Emergency planning/management officer,Muzaffarnagar,No,28.14611780395137,High,Good,No,29.529805173632248,High,Good
+35,Male,Operational researcher,Panchkula,No,22.94135117337021,Medium,Good,No,25.10923368108586,High,Good
+24,Male,Early years teacher,Raiganj,No,22.18845211627903,Medium,Good,No,24.238389133724127,Low,Poor
+32,Female,Secondary school teacher,Malda,Yes,12.196892101279786,Medium,Good,No,11.997998619895538,High,Good
+27,Female,"Journalist, newspaper",Tiruppur,Yes,20.01694785711676,Medium,Good,No,22.01624990009842,Low,Poor
+34,Female,"Teacher, secondary school",Rourkela,Yes,15.913175052827842,Low,Good,No,16.686638447942688,Low,Moderate
+32,Female,"Teacher, music",Fatehpur,No,24.244497135328785,High,Good,No,27.982371335162917,Medium,Good
+29,Female,Make,Ballia,No,24.92983393345396,Medium,Good,No,28.103885239424706,High,Good
+32,Female,"Engineer, communications",Vellore,Yes,32.210710534986596,Low,Good,No,33.893981998159234,Medium,Poor
+22,Male,Fisheries officer,Katihar,No,26.02256077676606,Medium,Good,No,26.039386766178545,Medium,Moderate
+32,Female,"Pilot, airline",Kishanganj,No,15.028883352187888,Medium,Moderate,No,17.161261028876904,Medium,Moderate
+33,Male,"Engineer, control and instrumentation",Fatehpur,Yes,13.762580783917828,Medium,Good,Yes,16.61226812065922,Low,Moderate
+26,Male,"Psychologist, clinical",Kirari Suleman Nagar,No,13.122719376023973,Medium,Good,No,14.729745453323572,High,Good
+28,Male,Dancer,Aizawl,No,14.295920145449085,Low,Good,Yes,14.60569483194716,High,Good
+33,Male,Community development worker,Jaunpur,No,21.57557477062023,High,Moderate,No,22.96475250251219,Low,Good
+35,Male,"Librarian, public",Gorakhpur,No,22.662794645879284,Medium,Good,No,24.54672299780725,Medium,Good
+26,Female,Toxicologist,Amroha,No,33.77570683838978,Low,Good,No,34.59780800778133,Medium,Poor
+22,Female,"Designer, television/film set",Nangloi Jat,Yes,20.629071986150024,Low,Poor,No,20.492316520107124,High,Moderate
+23,Female,Herbalist,Jamnagar,No,22.409265358873064,High,Moderate,No,24.925961891000362,High,Good
+33,Female,Museum/gallery conservator,Jehanabad,Yes,24.93329865709805,Medium,Moderate,Yes,25.078974263831523,Low,Moderate
+31,Male,Operations geologist,Nellore,No,34.607336658446926,Low,Good,No,35.57323968619341,Medium,Good
+34,Male,Operations geologist,Bhubaneswar,No,30.12695189501758,Medium,Poor,No,29.63657862214967,High,Good
+30,Female,Graphic designer,Kumbakonam,No,23.33734552432319,Medium,Good,No,24.423602650894896,Medium,Good
+33,Male,Fish farm manager,Machilipatnam,No,29.400981889421097,Low,Poor,Yes,30.810670470525753,High,Good
+30,Female,Dramatherapist,Jammu,Yes,23.847243996115182,High,Moderate,No,25.42573757577421,Medium,Good
+32,Male,Museum/gallery exhibitions officer,Katni,No,23.901961690907882,High,Good,Yes,25.712395066336498,Medium,Moderate
+32,Female,"Engineer, drilling",Hapur,Yes,19.273932811030903,Medium,Good,No,20.653989148433947,Medium,Good
+32,Female,"Engineer, building services",Kalyan-Dombivli,No,28.47870459508671,Medium,Good,No,29.09150916331343,Medium,Moderate
+22,Male,Futures trader,Darbhanga,No,17.133093180441858,Medium,Poor,Yes,17.161671986107592,Low,Moderate
+26,Male,Purchasing manager,Coimbatore,No,29.36140702057379,High,Good,Yes,30.74662162810141,Low,Poor
+24,Male,"Civil engineer, consulting",Chandigarh,No,24.877775228589257,High,Good,No,24.68604608292732,Medium,Good
+33,Male,Toxicologist,Salem,Yes,25.34865997986867,Low,Poor,No,25.463627715103527,High,Poor
+28,Female,Educational psychologist,Yamunanagar,No,20.93630014733912,Medium,Good,No,21.29408959823264,Low,Good
+26,Male,Community pharmacist,Bhiwandi,No,11.55228857613009,Low,Poor,No,12.721123721190306,Low,Poor
+27,Male,Bookseller,Ambarnath,Yes,28.96384102659909,Medium,Good,No,31.466468025303183,High,Poor
+34,Female,Management consultant,Thoothukudi,Yes,21.258670913617816,Low,Moderate,No,21.01180717504631,Low,Poor
+35,Male,Youth worker,Ajmer,No,26.060655390160143,High,Good,No,27.109894380925002,Low,Moderate
+29,Female,Musician,Warangal,Yes,23.775614491612835,Medium,Good,No,25.220544547143216,Medium,Moderate
+32,Male,Diplomatic Services operational officer,Rohtak,Yes,22.79173951128336,Medium,Poor,No,23.543068833233356,High,Good
+34,Male,"Librarian, public",Sambhal,No,21.319344305925178,High,Good,No,21.141128387139496,Medium,Moderate
+32,Female,"Programme researcher, broadcasting/film/video",Bhind,No,21.451856862299383,Medium,Good,No,22.042517532916474,Medium,Moderate
+30,Female,Operations geologist,Rajkot,No,24.050587760931524,Low,Good,No,25.558051656225437,Low,Moderate
+30,Female,Radio broadcast assistant,Visakhapatnam,No,27.825064287091635,Low,Good,No,30.24788202602009,Medium,Moderate
+33,Male,Cabin crew,Howrah,No,20.700679239832006,Medium,Good,No,21.36397544540692,High,Good
+32,Male,Planning and development surveyor,Amaravati,Yes,31.287930521686654,Medium,Good,Yes,28.606291257754464,High,Poor
+33,Male,Production manager,Raurkela Industrial Township,No,17.566297265516337,High,Good,No,19.33707846829631,Medium,Moderate
+34,Male,Travel agency manager,Kota,No,30.514640601967287,Medium,Good,No,30.925801622180952,Low,Good
+22,Male,Petroleum engineer,Singrauli,No,24.298802185687492,High,Good,No,24.895823491915827,Low,Good
+31,Male,Chief of Staff,Giridih,No,30.190276000973828,High,Poor,Yes,30.548603154030015,Low,Poor
+32,Male,Ergonomist,Guwahati,No,15.997192321441581,High,Good,Yes,18.54703361704083,Low,Good
+24,Male,"Nurse, children's",Phagwara,Yes,24.20124162664589,Low,Good,No,25.731841483665235,Low,Good
+22,Female,Higher education careers adviser,Satara,No,24.1036871519717,Low,Good,Yes,24.960386534723757,High,Good
+31,Male,Best boy,Etawah,No,25.803739866577313,Low,Good,No,25.154673047236734,Low,Good
+31,Male,"Administrator, education",Chittoor,No,27.769675371805167,Low,Good,No,30.40934912505685,High,Moderate
+25,Male,"Teacher, adult education",Haridwar,No,21.036156794593936,Medium,Good,No,21.604110947275267,Low,Good
+29,Male,Public affairs consultant,Bhalswa Jahangir Pur,No,18.431269036757506,Low,Moderate,No,20.399819791981113,Low,Good
+31,Female,Minerals surveyor,Gulbarga,No,30.544608527752928,Low,Good,No,29.833479433266657,High,Good
+31,Male,Sport and exercise psychologist,Bhagalpur,No,26.576659612394792,Medium,Good,No,29.07165330792458,Medium,Moderate
+25,Male,Ophthalmologist,Amritsar,No,21.231468676228474,Medium,Good,No,22.914822291695206,Medium,Good
+28,Female,Animal technologist,Bulandshahr,No,37.45147394269237,Low,Good,No,37.95111770018473,Low,Good
+34,Female,Land,Tiruvottiyur,No,35.037934364524176,Medium,Good,No,35.665564222460176,Low,Poor
+27,Male,Health visitor,Nellore,No,33.407033392743394,High,Good,No,34.733967509841186,Low,Poor
+30,Female,Web designer,Ramagundam,No,20.00838543156206,Medium,Good,No,21.523250799854743,Low,Good
+31,Female,Pathologist,Dewas,No,21.536086323427213,Low,Good,No,21.04251659344422,High,Good
+23,Female,IT trainer,Sangli-Miraj & Kupwad,Yes,21.12358523321629,High,Good,No,23.295088573117614,Low,Good
+24,Male,Architectural technologist,Guna,No,23.23146842703705,Medium,Good,No,24.29155474500621,Medium,Good
+31,Male,"Nurse, children's",Karawal Nagar,No,26.657804751559603,Low,Good,No,28.086507382076885,Low,Moderate
+26,Male,Environmental consultant,Jorhat,No,27.190011893231837,Medium,Moderate,No,26.461909240657576,Low,Moderate
+22,Female,"Sound technician, broadcasting/film/video",Tiruvottiyur,No,30.47388343895132,Medium,Good,No,30.35980238305365,High,Poor
+23,Female,"Psychologist, counselling",Jodhpur,No,26.354999964984827,Low,Good,No,28.69878783197221,Medium,Good
+29,Male,Insurance claims handler,Orai,Yes,29.981840345640695,Medium,Good,No,31.00763288925184,Low,Good
+34,Male,Oceanographer,Tenali,No,28.454920358682816,Low,Good,Yes,29.177319184933932,Medium,Poor
+35,Female,"Solicitor, Scotland",Nashik,Yes,25.324761977181172,High,Good,No,26.860780671848953,Low,Moderate
+31,Male,"Nurse, adult",Vijayanagaram,No,25.012600895873685,High,Good,Yes,25.445029327515588,High,Good
+35,Male,Manufacturing systems engineer,Faridabad,No,21.498292988647258,Medium,Poor,No,23.584049136200942,High,Good
+22,Male,Brewing technologist,Avadi,No,25.128610874264357,Medium,Good,No,26.498084374071656,High,Poor
+31,Male,"Surveyor, quantity",Nagercoil,No,26.562500040992628,Medium,Good,No,26.63785871301592,Medium,Poor
+29,Male,Animator,Khora ,No,34.01972168530114,Medium,Good,No,33.42355231144694,Low,Moderate
+34,Male,"Surveyor, commercial/residential",Tirunelveli,Yes,22.135525950680705,Medium,Good,No,24.282065199424654,Medium,Good
+29,Male,Therapeutic radiographer,Siliguri,No,23.835532449029404,Low,Good,Yes,25.50922259534631,Low,Good
+34,Female,Company secretary,Thanjavur,No,35.05694102487844,Low,Good,No,36.86099703665818,Medium,Good
+25,Female,Estate manager/land agent,Bathinda,No,23.514618189690786,High,Good,No,24.384042344975658,Low,Good
+30,Female,Community education officer,Mango,No,20.778421949928585,Low,Good,No,21.467788796798484,High,Moderate
+31,Male,Recycling officer,Sambalpur,No,20.598760444143718,Medium,Good,Yes,22.04366968945737,High,Poor
+29,Male,Proofreader,Ranchi,No,36.38043476951554,High,Good,No,38.311494097393684,Medium,Poor
+33,Female,"Engineer, agricultural",Danapur,No,25.500412373982094,Low,Poor,Yes,27.501035263100928,Medium,Good
+23,Female,Research scientist (medical),Karawal Nagar,No,15.491131860032727,Low,Poor,No,16.041266026118876,Low,Good
+33,Female,Building services engineer,Ghaziabad,No,25.76969115588062,High,Moderate,No,25.614721596948552,High,Poor
+32,Female,General practice doctor,Ramagundam,No,24.27336923185622,High,Good,Yes,24.148822355467125,Medium,Good
+32,Female,Consulting civil engineer,Amravati,No,12.120948064525729,Medium,Good,No,15.335082979671832,Low,Poor
+23,Female,Cabin crew,Tumkur,No,25.047474156060762,Medium,Good,No,26.207696199239713,Medium,Moderate
+27,Female,Community education officer,Saharanpur,No,19.42984316915545,Low,Good,No,18.555739255825532,Medium,Good
+32,Male,"Scientist, research (medical)",Sangli-Miraj & Kupwad,No,26.667024088606762,Medium,Good,Yes,29.123429460799173,Medium,Good
+22,Female,Tax adviser,Saharanpur,Yes,25.934106665116804,Medium,Good,No,27.560191779338023,Medium,Poor
+34,Female,Insurance broker,Bidhannagar,No,22.396930133852017,Low,Good,No,23.036591131155422,Medium,Poor
+25,Male,Biomedical scientist,Burhanpur,No,28.045101957733014,High,Good,No,28.566071323201978,Low,Moderate
+23,Female,"Civil engineer, contracting",Hospet,No,34.27525663254766,Low,Good,Yes,35.38700624049345,Medium,Moderate
+29,Male,Financial planner,Thrissur,No,26.61431559681682,Medium,Good,No,28.38767202319175,High,Good
+24,Female,Publishing rights manager,Tiruchirappalli,No,25.674631435875124,High,Good,No,26.26471344192644,Low,Good
+23,Male,Stage manager,Mathura,No,17.4063958624116,Medium,Good,No,19.146977366936365,High,Good
+30,Male,"Therapist, music",Belgaum,No,34.43380139034302,Medium,Moderate,No,35.21335792770573,High,Good
+33,Female,Osteopath,Raipur,No,26.302132175844527,Low,Poor,No,29.001337577672107,Medium,Good
+28,Male,Firefighter,Durgapur,Yes,26.1417293949652,High,Good,No,27.113277463362383,Low,Moderate
+26,Male,Gaffer,Nanded,No,38.44507874512904,High,Moderate,No,40.73320248213071,Low,Good
+26,Female,"Designer, ceramics/pottery",Bathinda,No,21.045277155232952,Medium,Good,No,21.36639614903357,High,Moderate
+31,Female,Colour technologist,Muzaffarnagar,No,32.02552692783346,Medium,Moderate,No,33.444895957846576,Low,Good
+29,Male,"Therapist, occupational",Ambattur,No,32.62845422820698,Low,Poor,No,34.10794838584064,Medium,Good
+34,Male,"Psychotherapist, dance movement",Uluberia,No,22.424997750703607,Medium,Good,No,22.587163211830095,Medium,Moderate
+30,Female,Colour technologist,Shahjahanpur,Yes,22.707291338898553,Medium,Good,No,23.20028662362678,High,Good
+29,Male,Insurance risk surveyor,Muzaffarnagar,No,18.51295890748751,Medium,Good,No,20.308719296035495,Low,Good
+35,Male,"Psychotherapist, dance movement",Shivpuri,Yes,12.94392668348875,High,Good,Yes,15.831089447203412,Medium,Good
+30,Female,Mechanical engineer,Mahbubnagar,No,35.20207437794809,High,Good,Yes,36.617847565032356,Low,Moderate
+32,Female,Special educational needs teacher,Bhimavaram,No,26.87149863795191,Medium,Moderate,Yes,26.718327186776996,Medium,Moderate
+27,Female,IT consultant,Danapur,No,18.416484033804537,High,Good,No,19.19234623509067,High,Moderate
+26,Female,Media buyer,Orai,No,16.837251428074286,High,Moderate,Yes,16.674801242091686,Low,Moderate
+33,Female,"Runner, broadcasting/film/video",Bettiah,Yes,21.378807692914457,Low,Good,No,23.19755108548154,Medium,Moderate
+30,Male,Insurance risk surveyor,Bettiah,No,24.950702100488797,Low,Good,Yes,24.200589715919563,Medium,Moderate
+29,Male,Arts development officer,Bhilwara,No,24.430997024999268,Medium,Good,No,25.37028201592353,Medium,Good
+26,Male,Outdoor activities/education manager,Khammam,No,27.09551209694992,Low,Good,No,29.30701160839856,High,Poor
+28,Female,Product designer,Vellore,No,23.678815209598547,High,Good,Yes,25.347022068109155,Medium,Good
+32,Female,Interpreter,Kumbakonam,No,22.88622624509838,Medium,Good,Yes,26.766227104988726,Low,Moderate
+30,Male,"Engineer, broadcasting (operations)",Mehsana,No,19.045891274865607,Low,Moderate,No,20.070370472006264,Medium,Moderate
+26,Female,"Surveyor, planning and development",Ghaziabad,No,23.028777968424443,Low,Good,Yes,24.16318580442758,Low,Good
+31,Female,Operations geologist,Khandwa,No,20.466900047096654,Medium,Good,Yes,21.468518595494633,Medium,Poor
+31,Female,"Designer, furniture",Raurkela Industrial Township,No,31.123157544814305,Medium,Moderate,No,32.30863710124781,Low,Good
+23,Male,Recruitment consultant,Nizamabad,No,28.670934657729475,Medium,Good,No,29.81117673212847,Medium,Good
+25,Female,Sports development officer,Jamshedpur,No,31.191642152282228,Medium,Good,No,31.460454545036917,High,Good
+28,Male,Herbalist,Bathinda,Yes,22.93804220676037,High,Poor,No,25.242702196368963,Low,Poor
+24,Male,Quarry manager,Patna,No,22.917900472088508,Medium,Good,No,23.100677108475466,High,Good
+23,Female,Health service manager,Kozhikode,No,31.365838557850253,High,Good,No,34.21287865839565,Medium,Good
+29,Female,"Engineer, chemical",Shimoga,No,21.446065022047915,Medium,Good,No,23.086626587012944,Low,Good
+29,Male,"Geologist, engineering",Erode,No,23.277631168288643,Low,Good,Yes,24.322766567336473,Low,Good
+35,Male,"Psychologist, sport and exercise",Kochi,No,30.04216569906233,Low,Moderate,No,30.816551423734044,High,Good
+33,Female,Automotive engineer,Moradabad,No,24.404351801135867,High,Good,No,26.56880267405444,Low,Good
+27,Male,Chief Operating Officer,Nashik,Yes,19.87066952368216,Medium,Good,No,20.613354465961486,Medium,Moderate
+34,Female,"Surveyor, minerals",Bettiah,No,24.661627503681917,Low,Good,Yes,25.47757114708563,Low,Good
+23,Female,Psychiatrist,Kakinada,No,26.193770897016254,High,Poor,No,24.369216032211057,Medium,Good
+22,Female,"Surveyor, rural practice",Bhavnagar,No,29.71791522976664,High,Good,Yes,30.413291672323545,Medium,Poor
+32,Female,Recruitment consultant,Tezpur,No,25.799566590457562,Low,Good,No,26.05718200603276,Medium,Good
+32,Female,Armed forces technical officer,Bikaner,No,20.93776440773988,Medium,Poor,No,23.49072931345114,Low,Poor
+29,Male,"Accountant, chartered",Sikar,No,24.925938551099406,Medium,Good,No,26.949724013120747,Medium,Moderate
+29,Male,"Engineer, broadcasting (operations)",Sasaram,No,26.76216597319993,Medium,Moderate,No,28.038700824314148,Medium,Good
+30,Male,Hospital pharmacist,Bahraich,No,20.936334774035117,High,Good,Yes,20.806924945664157,Medium,Poor
+24,Female,Lobbyist,Bikaner,No,22.000748121390338,Medium,Good,No,22.899772232053074,Medium,Good
+34,Male,Forensic psychologist,Bathinda,No,20.283617495095143,High,Good,Yes,20.144969468656523,Low,Good
+24,Female,Facilities manager,Phagwara,Yes,12.689787353871756,High,Moderate,No,13.389140343482376,Medium,Poor
+25,Male,Freight forwarder,Ludhiana,No,27.148571550493024,Medium,Good,Yes,27.63746781147489,High,Moderate
+30,Male,Clothing/textile technologist,Yamunanagar,No,22.143071897470403,Low,Moderate,Yes,24.953659394430687,High,Good
+30,Female,Lexicographer,Deoghar,No,36.18115785692379,Low,Good,No,36.829252365479654,Low,Poor
+30,Male,Youth worker,Cuttack,No,20.086566247093145,Low,Good,No,23.039904621612305,Medium,Moderate
+26,Female,Immigration officer,Moradabad,No,21.32838444869157,High,Good,No,21.42574468986591,Low,Good
+28,Female,"Editor, commissioning",Hospet,No,23.07225937829421,High,Moderate,No,22.78138452909599,Low,Good
+28,Female,"Designer, exhibition/display",Nandyal,No,29.570797881720733,Low,Good,No,30.133770238270838,Medium,Poor
+34,Male,Haematologist,Tenali,No,28.607955030396557,Medium,Good,No,29.83290433345039,Low,Moderate
+24,Female,Investment analyst,Hazaribagh,No,23.656435778421113,Low,Good,No,24.70095796137273,Low,Good
+25,Female,Counselling psychologist,Ozhukarai,No,23.971392986351926,Medium,Moderate,No,26.970179487056342,Medium,Poor
+31,Female,"Engineer, water",Miryalaguda,No,27.780143288946583,Medium,Poor,No,28.749885586268025,Low,Good
+29,Female,International aid/development worker,Bellary,No,26.519413070514506,Medium,Good,No,26.01340341959142,Medium,Good
+28,Male,"Engineer, energy",Vijayanagaram,No,21.12532426081192,Medium,Good,No,21.452934789704248,Medium,Good
+23,Female,Tour manager,Mau,No,28.116079399061988,High,Good,Yes,27.74822492020506,High,Poor
+33,Female,"Accountant, chartered certified",Gandhidham,No,23.232386991136753,Medium,Moderate,Yes,25.264235936083715,High,Good
+24,Female,"Buyer, industrial",Machilipatnam,Yes,28.892661170896933,High,Good,No,29.22812181374133,Low,Moderate
+28,Male,Charity officer,Salem,No,22.942128702884496,High,Poor,No,23.35925273110683,Medium,Moderate
+22,Female,Energy engineer,Madanapalle,No,20.878995292839438,High,Good,No,22.627899315119524,Medium,Good
+33,Female,Mechanical engineer,Serampore,Yes,23.20290912406267,Medium,Good,Yes,25.173336327209036,Low,Poor
+26,Male,"Psychologist, educational",Ujjain,No,26.551705319011397,Medium,Good,Yes,25.389808415757443,Low,Good
+30,Female,Sports development officer,Coimbatore,No,23.437388539541697,Medium,Good,No,25.51000261028695,Low,Moderate
+26,Male,Chief Strategy Officer,Jaipur,No,28.015604137756632,High,Good,No,28.638720035233668,Low,Good
+23,Female,Museum/gallery conservator,Nashik,No,31.73533937762943,High,Good,No,33.65255805596116,Medium,Good
+24,Male,Facilities manager,Asansol,No,18.781416581290408,Medium,Good,No,19.93521266851425,Medium,Good
+31,Female,Early years teacher,Gudivada,No,28.7765571256019,Low,Good,No,29.276943099276224,Medium,Good
+23,Female,Meteorologist,Ballia,No,24.686716505457156,High,Good,No,24.68275587708653,High,Moderate
+26,Male,Higher education careers adviser,Sangli-Miraj & Kupwad,No,31.00673572033351,Low,Poor,Yes,31.27543552516625,High,Good
+28,Female,Company secretary,Howrah,No,27.81149276499033,High,Good,No,27.337094404147873,Medium,Poor
+28,Male,"Runner, broadcasting/film/video",Howrah,Yes,21.115761088701454,Low,Moderate,No,20.39694752019277,Medium,Good
+26,Male,"Scientist, forensic",Kochi,No,23.35667733359612,High,Good,No,24.97919162069635,Medium,Good
+27,Female,Forest/woodland manager,Kirari Suleman Nagar,No,18.3246774399543,Medium,Good,No,19.10291113854134,Medium,Moderate
+22,Female,Theme park manager,Panchkula,No,30.857852199802497,Low,Good,Yes,31.628076452966155,Medium,Good
+29,Male,Trading standards officer,Bathinda,No,32.45118829579887,Low,Good,No,31.943011514244322,High,Good
+27,Female,Educational psychologist,Hubli–Dharwad,Yes,25.66086580419372,Medium,Good,Yes,27.299897788174572,Low,Good
+31,Female,Recycling officer,Etawah,Yes,34.12250287769161,Medium,Good,No,36.885815341767575,High,Moderate
+32,Male,Recycling officer,Bhatpara,No,31.06472941288185,High,Good,Yes,32.122931246050996,Low,Poor
+26,Female,Surgeon,Meerut,No,29.213314836328248,Medium,Moderate,No,29.426701678637613,Medium,Good
+23,Male,Geophysical data processor,Kottayam,No,21.241072015153147,Medium,Moderate,No,22.779704793550138,Low,Poor
+29,Male,"Psychotherapist, dance movement",Gulbarga,No,21.878233209713734,Medium,Good,No,23.662710452164408,Low,Poor
+33,Male,Land,Raiganj,No,21.107495876495687,High,Moderate,Yes,23.019932941830753,Medium,Moderate
+29,Male,Careers adviser,Rajahmundry,No,29.247838873373432,Medium,Good,No,30.213189919253463,High,Moderate
+32,Female,Commercial/residential surveyor,Nashik,No,28.556011929810737,High,Good,No,29.38866079048431,Low,Poor
+29,Female,Clothing/textile technologist,Hazaribagh,No,32.97483402521387,Medium,Good,No,34.35882836988047,Low,Good
+24,Male,Radiation protection practitioner,Pimpri-Chinchwad,No,27.48352675219757,High,Good,No,28.716199673749944,Low,Good
+28,Male,"Research officer, government",Etawah,No,18.73054557935277,Medium,Moderate,No,19.788786166859797,Low,Good
+22,Male,Child psychotherapist,Tumkur,No,27.808083971771964,High,Good,Yes,27.801448935229626,Low,Good
+33,Female,"Physicist, medical",Ahmedabad,No,29.698564202196188,Low,Good,No,29.65382764343651,Low,Moderate
+27,Female,Health visitor,Burhanpur,No,19.78417852990291,High,Moderate,No,20.151962289615618,Medium,Good
+32,Female,Outdoor activities/education manager,Deoghar,No,28.244636050834593,Low,Good,No,30.10755272118902,High,Good
+25,Female,Microbiologist,Jamshedpur,No,24.247020466056505,Medium,Poor,No,25.29602666932996,Low,Good
+29,Female,Software engineer,Rewa,No,30.4829057713592,High,Good,No,31.25471011197107,Medium,Moderate
+26,Male,Commercial/residential surveyor,Gwalior,Yes,29.898025103791635,Medium,Moderate,No,30.094236019577476,Low,Good
+31,Female,Regulatory affairs officer,Kottayam,No,27.1351806170872,High,Good,No,28.761597288408574,Medium,Good
+23,Female,Clinical psychologist,Guna,No,30.35844729679777,Medium,Poor,No,31.58273143423452,Medium,Poor
+28,Female,Tourist information centre manager,Firozabad,No,30.80689890227516,High,Moderate,No,31.50565623985909,Low,Moderate
+23,Female,Environmental consultant,Ambala,No,17.823501247687652,Low,Good,No,18.725907186965394,Medium,Good
+32,Female,"Engineer, technical sales",Burhanpur,No,23.620268577968602,High,Good,No,25.06061595358532,Low,Good
+30,Male,"Therapist, speech and language",Lucknow,No,25.54068703479016,Medium,Good,No,26.543975542384235,Low,Moderate
+34,Male,"Teacher, adult education",Tinsukia,No,24.89739248759548,Medium,Good,No,26.19680068358448,High,Good
+33,Male,Horticultural therapist,Thiruvananthapuram,Yes,29.9228609116005,Medium,Good,No,31.983834867493503,Medium,Moderate
+22,Female,Homeopath,Moradabad,No,20.992643691730727,High,Good,No,21.923520554261746,Medium,Moderate
+26,Female,Product/process development scientist,Sultan Pur Majra,Yes,26.759020145451775,High,Moderate,No,26.28807998322366,Medium,Moderate
+25,Female,Travel agency manager,Tadipatri,No,23.156571581323213,Low,Good,Yes,23.401046195711984,Medium,Poor
+35,Male,Museum/gallery exhibitions officer,Gudivada,No,21.02846458923772,High,Moderate,No,23.478248560167277,Low,Poor
+29,Female,Meteorologist,Bally,Yes,23.171190370843735,High,Poor,Yes,23.955566842568082,Low,Moderate
+32,Male,Investment analyst,Bardhaman,No,22.69493770643008,High,Moderate,No,22.18337282503499,Low,Poor
+28,Male,Veterinary surgeon,Udupi,No,19.43840766844402,Medium,Moderate,No,20.786765669440832,Medium,Good
+29,Female,Manufacturing systems engineer,Kolhapur,No,16.963542173648662,Medium,Poor,No,17.58652853603117,High,Moderate
+24,Male,Bonds trader,Meerut,No,29.209725978718062,High,Moderate,No,30.053754406757204,Low,Moderate
+26,Male,Recycling officer,Korba,No,34.696615122429726,Low,Moderate,No,35.830329315361965,Low,Good
+22,Male,Surgeon,Chennai,No,22.842245660517772,High,Good,No,24.178161715214085,High,Poor
+27,Male,Rural practice surveyor,Srikakulam,No,34.82953690712241,Medium,Good,No,36.29098633229371,Medium,Good
+31,Male,Television production assistant,Anand,No,28.759161136359637,Low,Good,No,30.35545225017643,Low,Good
+28,Male,Customer service manager,Hajipur,No,21.981984570911596,Low,Good,No,21.96778888196293,High,Good
+22,Male,Estate agent,Gandhinagar,No,34.04974771957105,High,Good,No,35.81566985282069,Medium,Good
+32,Female,Printmaker,Yamunanagar,No,19.381677473313264,High,Good,No,20.07935465497813,Medium,Good
+30,Female,Broadcast journalist,Kollam,No,30.607402863978947,Low,Good,No,30.986239853690208,Medium,Moderate
+22,Male,Pharmacologist,Ichalkaranji,No,22.548055745129567,Low,Good,No,22.32900080796242,Medium,Poor
+28,Female,Archaeologist,Cuttack,Yes,26.153550824918284,Medium,Good,Yes,26.52070307739489,Medium,Good
+28,Male,"Runner, broadcasting/film/video",Rohtak,No,22.937893368882097,Low,Poor,No,23.265608791821165,Low,Good
+23,Male,General practice doctor,Erode,No,31.088534934653765,Low,Good,No,33.86540339215306,Low,Moderate
+31,Male,"Education officer, museum",Kalyan-Dombivli,No,28.662827189256703,Medium,Good,Yes,30.440146207949784,Medium,Moderate
+25,Male,Commercial/residential surveyor,Phagwara,Yes,25.756611706275045,Medium,Moderate,No,25.736102055765652,Low,Good
+32,Male,Podiatrist,Sirsa,No,26.510463789896544,High,Good,No,27.581180048844143,Low,Moderate
+32,Female,Health visitor,Karawal Nagar,No,31.551472957704895,High,Moderate,No,32.52896139928656,Low,Good
+28,Female,Ergonomist,Imphal,Yes,25.86608751338965,High,Good,No,25.68706646229355,Low,Moderate
+32,Male,Games developer,Bhind,No,31.52127183944966,High,Good,Yes,32.195794718961416,Medium,Good
+31,Male,"Librarian, public",Bareilly,No,16.642578015822544,Medium,Good,Yes,15.24429423917747,Low,Good
+33,Female,Amenity horticulturist,Thanjavur,Yes,24.10127962092471,Medium,Good,No,24.1041678989644,Medium,Good
+28,Female,Cartographer,Durg,No,22.95885434626318,High,Good,Yes,23.92653107413465,Medium,Good
+24,Female,"Secretary, company",Sonipat,No,30.1417281465021,Medium,Moderate,No,31.1810372072975,High,Poor
+31,Male,Prison officer,Panchkula,No,14.946935362258687,High,Moderate,Yes,15.628606628134252,High,Good
+27,Male,Field trials officer,Vijayanagaram,Yes,33.440373507145985,Medium,Good,No,33.79430030931886,Medium,Poor
+31,Male,Trading standards officer,Bijapur,Yes,28.911278814144907,Medium,Good,No,27.997284524983236,High,Poor
+23,Male,Orthoptist,Nagercoil,No,31.941403370682817,Medium,Good,Yes,33.767039257921205,High,Poor
+27,Female,Illustrator,Jamalpur,No,16.81288539202469,High,Good,No,17.357545915813674,Low,Good
+24,Male,Translator,Gudivada,No,28.781478035472308,Medium,Good,No,30.087625919763433,Low,Good
+32,Female,Corporate treasurer,Kolkata,No,26.137690871560938,Low,Good,No,28.001591506388692,Medium,Moderate
+22,Female,Electronics engineer,Meerut,No,30.915310532344336,Medium,Good,No,32.494169442634394,High,Moderate
+32,Female,"Engineer, site",Machilipatnam,No,26.818144666130973,Medium,Moderate,Yes,26.312449698135236,Low,Poor
+22,Female,Telecommunications researcher,Loni,No,20.817322621231828,Medium,Good,No,21.201047828114053,Low,Poor
+24,Female,Community arts worker,Bhiwandi,Yes,28.183012848834824,Low,Good,No,30.081257169556032,Low,Poor
+32,Male,Immunologist,Phagwara,No,28.893149619187003,High,Good,No,31.44503458803206,Low,Good
+31,Female,English as a foreign language teacher,Dibrugarh,No,18.90419237717653,Medium,Moderate,Yes,20.136927489422266,High,Poor
+31,Male,Management consultant,Adoni,No,27.90408672254938,High,Good,No,27.68517249972048,Medium,Poor
+30,Female,Make,Mau,No,18.100365356763966,Low,Moderate,No,17.471708592479047,High,Moderate
+22,Male,Hospital doctor,Karnal,Yes,21.129380947672736,Medium,Good,No,21.731337521313545,Low,Good
+22,Male,Insurance broker,Karnal,No,29.3355361757122,Medium,Moderate,Yes,29.8882299466102,Medium,Poor
+24,Female,Clinical psychologist,Thoothukudi,No,20.847074673932802,High,Good,No,22.981054257364438,Medium,Moderate
+26,Male,Air traffic controller,Ranchi,No,27.38641022220927,Low,Moderate,No,26.99736624930337,Medium,Moderate
+28,Male,Retail buyer,Nellore,No,19.982532051901654,Low,Good,No,19.33881986475192,Low,Good
+29,Male,Herpetologist,Agartala,Yes,24.76740300740411,Medium,Good,No,25.17187550252417,Medium,Moderate
+34,Male,Newspaper journalist,Hajipur,No,27.79032092672566,Medium,Good,Yes,30.21043626133522,Low,Good
+33,Male,"Psychologist, sport and exercise",Pallavaram,Yes,15.188313295705672,High,Good,No,14.114531872367797,High,Moderate
+34,Female,Lawyer,Nagpur,No,24.700737268641607,Medium,Good,No,26.82841111114358,Low,Poor
+33,Male,"Social research officer, government",Ambarnath,Yes,19.568681969562896,High,Good,Yes,20.69417291221694,Low,Good
+24,Female,"Research officer, political party",Tiruchirappalli,No,28.764485176771363,High,Good,No,27.282258741613663,Medium,Good
+25,Male,Midwife,Davanagere,No,32.15841014563186,Low,Good,No,31.533833336934904,Medium,Poor
+31,Female,Barrister's clerk,Haridwar,No,19.867254110303442,Medium,Good,Yes,18.863134563218484,Low,Poor
+31,Female,"Solicitor, Scotland",Amravati,No,26.344883773782467,High,Good,No,28.483452503646017,Low,Good
+27,Female,Facilities manager,Aurangabad,No,27.14944831868995,Low,Good,No,25.11532061242046,High,Moderate
+34,Female,"Editor, commissioning",Bangalore,Yes,24.790589066045126,High,Good,No,26.55250653460604,Medium,Poor
+28,Male,Animal technologist,Durgapur,No,23.33105386188321,Medium,Good,No,24.92371424698816,Medium,Good
+26,Female,"Investment banker, corporate",Kavali,No,23.891821777664948,High,Poor,No,23.8642085670491,High,Good
+23,Female,Therapeutic radiographer,Ambala,No,23.45121694133192,Low,Good,No,22.872844351796584,Low,Good
+24,Female,Colour technologist,Bhatpara,No,25.68154315465857,High,Good,No,26.554944109909414,Medium,Good
+32,Male,Translator,Karaikudi,Yes,32.831793965423635,High,Good,No,32.90172921127794,Medium,Poor
+29,Male,Patent attorney,Kharagpur,Yes,15.034638035937881,High,Good,No,16.910949672592466,Low,Good
+22,Female,"Doctor, general practice",Nandyal,Yes,31.22196798346263,Medium,Good,No,32.48422913502009,Low,Moderate
+24,Male,Accounting technician,Akola,No,20.018182714824086,Medium,Moderate,No,20.86705660919753,Low,Good
+26,Female,Astronomer,Nadiad,No,33.10830583607431,Low,Poor,Yes,33.97190018033661,Medium,Good
+29,Male,Paramedic,Begusarai,No,32.591283725250804,Medium,Good,No,31.811179703598828,Medium,Good
+34,Male,Paramedic,Asansol,Yes,28.09700370893933,High,Good,Yes,29.295997695954004,Medium,Good
+33,Male,Armed forces training and education officer,Bhind,No,26.443224703423713,Low,Good,Yes,27.259946614674757,High,Moderate
+31,Female,Occupational hygienist,Varanasi,No,32.34943346805228,Low,Moderate,No,35.698537031989886,Low,Poor
+29,Female,"Therapist, art",Mahbubnagar,No,20.414410289211464,Medium,Moderate,No,20.69834762574735,High,Good
+33,Male,Clinical psychologist,Erode,No,24.12411032287634,High,Good,No,25.0030415427316,Low,Good
+35,Female,Print production planner,Ramgarh,No,20.395954307158302,Medium,Good,No,20.89516508157764,High,Good
+22,Female,"Journalist, newspaper",Parbhani,No,21.975432402651585,High,Good,No,23.07171414905953,Low,Poor
+32,Male,"Journalist, magazine",Sonipat,No,28.58186063376057,Medium,Poor,No,30.928853213601194,Low,Good
+34,Female,Financial planner,Anantapur,No,20.629392971652436,Low,Good,Yes,23.665043239351583,Medium,Good
+25,Male,"Designer, multimedia",Kottayam,No,19.45956872721329,Low,Good,No,19.568179624821155,Low,Good
+25,Female,Homeopath,Rewa,No,28.850641356838963,High,Good,No,30.094330170998855,Low,Good
+28,Female,Colour technologist,Khandwa,No,30.503705507554407,High,Good,Yes,32.30142981548164,Low,Good
+24,Female,"Psychotherapist, child",Imphal,No,29.37239528178227,Medium,Good,Yes,30.31593588484839,High,Good
+28,Female,Acupuncturist,Bellary,No,19.31951649634182,High,Poor,No,19.325245827078195,Low,Poor
+32,Female,"Clinical scientist, histocompatibility and immunogenetics",Muzaffarpur,No,20.707919597758032,Low,Moderate,No,22.578259050828187,High,Moderate
+22,Female,Barrister,Ahmednagar,No,31.000144666831428,High,Moderate,No,33.82796939280442,Low,Good
+31,Female,Biomedical scientist,Aurangabad,No,28.542436548326407,Low,Poor,No,30.065515118356657,Medium,Good
+28,Male,Theatre manager,Guna,No,28.983390064884702,High,Good,No,29.438562816812638,Medium,Good
+35,Female,Phytotherapist,Barasat,No,23.15308668605239,Medium,Good,Yes,22.731246227025142,High,Good
+30,Male,Lexicographer,Udaipur,No,26.06776625886362,High,Good,No,27.779241859229767,Low,Poor
+27,Female,Insurance underwriter,Silchar,No,26.79038861569734,Medium,Good,No,26.772237671196336,High,Good
+34,Male,Immigration officer,Bardhaman,No,22.067711409742785,High,Good,No,22.03144905176507,Low,Good
+29,Male,Trading standards officer,Hindupur,No,19.88808920960942,High,Moderate,No,22.70414979673986,Low,Poor
+25,Male,Accommodation manager,Panchkula,No,17.98794180540907,High,Moderate,No,19.550052102932497,Low,Good
+27,Female,"Merchandiser, retail",Asansol,No,29.045342813943428,Medium,Good,No,28.73767245103991,Medium,Poor
+32,Female,"Surveyor, insurance",Kanpur,No,22.877698041868854,Low,Good,No,23.53460204731737,High,Good
+31,Female,Town planner,Bhagalpur,Yes,28.60020750001043,Low,Poor,No,29.838906184298466,Medium,Good
+29,Female,"Conservation officer, nature",Nashik,No,21.09003340081197,High,Good,No,22.945551601429067,High,Moderate
+29,Female,"Designer, multimedia",Ongole,Yes,20.085470747964862,Low,Good,No,21.956663650383355,High,Poor
+23,Male,Music tutor,Chennai,No,30.399642288977383,Medium,Good,Yes,32.38819610112264,Low,Poor
+29,Female,Sales promotion account executive,Pallavaram,No,26.11783863953092,High,Good,No,28.167152046825922,Medium,Poor
+35,Male,Veterinary surgeon,Gaya,No,26.632414437892916,Low,Moderate,No,27.487721470147232,Low,Moderate
+30,Female,Public house manager,Kalyan-Dombivli,Yes,18.023928374600477,Low,Good,No,20.167382189473166,High,Good
+28,Female,Hospital pharmacist,Mahbubnagar,No,33.283031065462595,Low,Poor,No,34.772167627614806,Low,Poor
+26,Male,Actor,Bhimavaram,No,25.9788855014368,Medium,Good,No,26.12104832777194,High,Good
+27,Male,Sales promotion account executive,Bhind,No,29.689122470460404,Medium,Good,No,31.054433874798473,Low,Moderate
+31,Female,Environmental consultant,Phusro,No,31.215363964572752,High,Good,No,32.07402486300815,High,Poor
+31,Male,Operations geologist,Amaravati,No,27.936361287220574,Low,Good,Yes,27.6061716275595,Low,Good
+28,Female,Clinical psychologist,Rajahmundry,No,23.94644980138922,Low,Good,No,24.727061583398452,Low,Moderate
+32,Male,Mental health nurse,Ramagundam,Yes,28.57380013243997,High,Moderate,Yes,29.296331464995937,Low,Good
+32,Female,Forensic scientist,Vellore,Yes,23.77325995200573,Low,Good,No,23.676347950620137,Medium,Poor
+23,Female,Commercial horticulturist,Purnia,Yes,15.197582061949594,Medium,Good,No,18.88506787420433,Low,Good
+26,Female,"Research officer, political party",Proddatur,Yes,18.426403606722662,Low,Moderate,No,19.353385478967393,High,Good
+29,Female,"Surveyor, commercial/residential",Shimoga,No,19.55522384894288,High,Moderate,No,19.0435107367789,Medium,Good
+26,Male,"Surveyor, hydrographic",Chittoor,No,26.1293244646681,Low,Good,Yes,27.702934649156898,Low,Good
+27,Female,Fish farm manager,Guntur,No,17.378613881351797,Low,Good,No,19.007272704627272,High,Good
+33,Female,Water engineer,Allahabad,Yes,25.65497454353329,Medium,Good,No,25.982368545523173,Medium,Good
+29,Female,"Designer, ceramics/pottery",Silchar,No,23.69037358793614,Medium,Good,No,26.266209858294605,Medium,Good
+35,Female,"Psychologist, educational",Giridih,No,24.2297299360763,Medium,Good,Yes,24.061596890493945,Low,Moderate
+31,Female,"Designer, interior/spatial",Yamunanagar,Yes,16.383586027218314,High,Moderate,Yes,16.85519839876423,Low,Moderate
+30,Female,Translator,Thrissur,No,27.319131524989967,Medium,Moderate,No,28.513028559573986,Medium,Moderate
+32,Female,"Engineer, materials",Junagadh,No,29.3902913159314,Medium,Good,No,29.87873939983616,Medium,Poor
+33,Female,Sport and exercise psychologist,Nizamabad,No,25.267032809963727,Medium,Good,No,26.98704778688611,Medium,Moderate
+28,Female,Counselling psychologist,Panipat,Yes,19.596090628464992,Medium,Good,No,21.48882840650661,Low,Good
+23,Female,Industrial/product designer,Rajpur Sonarpur,No,16.29514841246688,Low,Good,Yes,16.792647468227294,High,Poor
+32,Male,Tax inspector,Raipur,No,29.103289036917065,High,Good,No,29.883267257520544,Low,Moderate
+33,Male,Theatre director,Machilipatnam,Yes,19.177433267819815,Low,Moderate,No,19.417762616425737,Medium,Poor
+22,Male,Sales executive,Ghaziabad,No,34.47464291181254,Medium,Good,No,35.51087564413705,Low,Poor
+27,Female,Forensic psychologist,Motihari,No,31.469227867529455,Low,Poor,No,33.70975570961261,Low,Moderate
+32,Male,"Engineer, biomedical",Kavali,No,31.16569435499642,High,Moderate,No,31.36729937718108,Low,Poor
+30,Female,Manufacturing systems engineer,Katihar,No,21.857857625522033,Low,Good,No,21.836456418495153,High,Good
+25,Female,Housing manager/officer,Nandyal,No,19.05371477095278,Low,Good,Yes,19.552013099407393,Low,Poor
+34,Male,"Horticulturist, commercial",Rajkot,No,24.31965469920929,Medium,Good,Yes,24.66616670568009,High,Good
+32,Female,Environmental education officer,Darbhanga,No,29.538365085475576,High,Moderate,No,29.944211552597196,Low,Good
+22,Male,Database administrator,Bahraich,No,11.559379464139214,Low,Good,No,11.642982427933998,Medium,Good
+26,Male,IT consultant,Bhusawal,Yes,16.309863683752425,Low,Good,No,17.94247457834867,Medium,Good
+23,Female,"Education officer, environmental",Tadipatri,No,20.05855854275967,Low,Good,Yes,20.313053974559356,Medium,Good
+32,Male,Research scientist (medical),Avadi,Yes,31.429776123423864,High,Good,No,31.07301257074956,Medium,Moderate
+23,Female,Armed forces operational officer,Gandhinagar,No,24.046267983524906,Low,Good,Yes,24.793800377946955,Medium,Good
+28,Male,Hydrographic surveyor,Kumbakonam,No,15.849684482578915,High,Good,No,15.568680437878426,High,Moderate
+26,Female,"Psychologist, prison and probation services",Mathura,No,24.72335127416233,High,Good,No,24.758411573502137,Medium,Moderate
+24,Male,Broadcast presenter,Indore,Yes,21.260946999233038,High,Poor,No,20.846435389016396,Low,Good
+27,Male,Public house manager,Jamshedpur,No,24.14556012705163,Medium,Good,Yes,24.491090553281012,Medium,Good
+34,Male,Haematologist,Sonipat,No,28.311345449877866,Medium,Good,Yes,29.427018808631257,Low,Poor
+26,Male,Commercial/residential surveyor,Korba,No,31.190114501382585,Low,Good,Yes,31.377487587671645,Medium,Good
+33,Female,"Psychologist, counselling",Maheshtala,Yes,16.960803580874845,Low,Good,No,17.208274001156088,Low,Moderate
+31,Male,Electrical engineer,Amravati,No,27.111857889589878,Medium,Moderate,Yes,28.289718586735482,Medium,Moderate
+26,Male,Patent attorney,Khandwa,No,29.730261652179088,High,Good,No,31.359355766378506,Medium,Poor
+25,Female,Press photographer,Patiala,No,23.21456726179533,Low,Good,No,23.76407401146691,Low,Poor
+34,Male,Sports administrator,Noida,No,31.617377667282774,Medium,Good,No,33.97122954431532,Low,Poor
+32,Female,Haematologist,Katihar,Yes,15.295874078008291,High,Poor,Yes,15.667318641996731,High,Moderate
+29,Male,Leisure centre manager,Anand,No,28.995946342652378,Low,Good,No,30.26161426877306,Low,Good
+28,Female,Learning disability nurse,Farrukhabad,Yes,35.255999971336514,Low,Moderate,No,34.296228299770995,Low,Good
+23,Male,"Scientist, research (physical sciences)",Bijapur,No,13.339347908946554,Medium,Good,No,14.527485042349317,Low,Good
+28,Male,Marine scientist,Alappuzha,No,22.651864291712144,High,Good,No,24.558261416033744,Low,Good
+35,Female,"Pharmacist, community",Haridwar,Yes,36.878156064826854,High,Good,No,38.336645770840725,High,Good
+24,Male,"Scientist, clinical (histocompatibility and immunogenetics)",Vasai-Virar,No,20.848887585135397,Medium,Good,No,22.391854039245995,Medium,Good
+27,Female,Maintenance engineer,Purnia,No,30.400241998373907,Medium,Good,Yes,31.264335525699114,Medium,Good
+27,Female,"Engineer, energy",Udaipur,No,29.167995444883108,High,Moderate,No,29.557456608603133,Low,Good
+34,Male,Herpetologist,Guntakal,No,23.7238881959478,Medium,Moderate,No,25.33352167844827,High,Good
+35,Female,"Geneticist, molecular",Davanagere,No,23.8006391645968,Medium,Good,No,25.779197612456777,Medium,Good
+34,Male,"Designer, fashion/clothing",Kanpur,No,26.76725503756407,Medium,Good,No,27.498401060490348,Low,Poor
+33,Female,Further education lecturer,Siliguri,Yes,22.65413502218069,Low,Good,Yes,23.748071556352127,Medium,Poor
+30,Male,"Secretary, company",Patiala,No,26.682042110634814,Low,Good,No,26.455877275820555,High,Poor
+32,Male,Restaurant manager,Jalandhar,Yes,16.371821783006745,High,Moderate,Yes,18.20655331777206,Medium,Moderate
+33,Female,TEFL teacher,Sultan Pur Majra,No,30.296374072556404,High,Moderate,No,31.783739240622825,Low,Moderate
+25,Male,Fine artist,Surendranagar Dudhrej,Yes,34.436163386088225,Low,Good,No,33.76847046187249,Medium,Moderate
+33,Male,Jewellery designer,Hindupur,No,20.175155111602905,Medium,Good,Yes,21.330045529739742,Medium,Moderate
+33,Male,"Presenter, broadcasting",Bikaner,Yes,20.59761232114271,Low,Good,No,22.83454226096152,Low,Moderate
+25,Male,Financial adviser,Ujjain,No,19.82796940002301,Medium,Good,Yes,21.273145427055727,Medium,Poor
+34,Female,Geographical information systems officer,Guwahati,No,21.64514929004284,Low,Good,No,23.197280711184696,Medium,Good
+26,Female,Health and safety adviser,Bikaner,No,18.36516375791963,Medium,Good,No,18.582086397484584,Low,Good
+26,Male,"Teacher, adult education",Hindupur,No,29.11500358843991,High,Good,No,30.26109328020523,Medium,Good
+23,Female,Environmental health practitioner,Satna,No,24.966839867864525,Medium,Moderate,Yes,25.192790087392527,Low,Poor
+34,Female,Equities trader,Guwahati,No,27.579321013991958,Medium,Good,No,29.06046823999409,Medium,Good
+27,Female,Dentist,North Dumdum,No,36.12995650405048,High,Poor,No,36.81962848514964,Low,Good
+28,Male,Retail buyer,Danapur,No,22.289576285088152,Medium,Moderate,No,22.52515121035591,Low,Good
+25,Female,"Designer, ceramics/pottery",Gorakhpur,No,26.892087440241298,Low,Poor,Yes,27.499992215670385,Low,Poor
+31,Female,Wellsite geologist,Eluru,Yes,21.490090475610543,Medium,Good,No,21.73388473641158,Low,Poor
+33,Male,"Librarian, public",Srinagar,No,21.682203212141253,Medium,Good,No,21.035070244650303,Low,Moderate
+34,Female,"Development worker, community",Berhampore,No,15.193936018996137,Low,Good,Yes,16.414754263726227,Low,Good
+26,Female,Airline pilot,Nadiad,No,23.697471871425833,High,Good,No,24.790407784971915,High,Good
+29,Male,IT consultant,Munger,Yes,26.95421916550063,Low,Poor,No,27.3651714937875,Low,Moderate
+34,Female,Higher education lecturer,Ozhukarai,No,26.163423159980187,High,Good,No,27.214971267796606,High,Good
+34,Male,"Lecturer, further education",Latur,Yes,25.85660327371552,High,Good,No,26.84766091436361,High,Poor
+24,Female,Operational investment banker,Junagadh,No,25.608197760343792,Medium,Good,No,25.30739512620986,Medium,Good
+31,Female,Chartered accountant,South Dumdum,No,17.755896398393066,High,Good,No,16.61449845909661,Low,Poor
+29,Female,"Radiographer, therapeutic",Sultan Pur Majra,No,27.353816488548006,High,Good,Yes,29.905426960621128,High,Good
+25,Male,Corporate investment banker,Kochi,No,15.049621167946816,High,Poor,No,14.672656653009355,High,Moderate
+31,Male,Product manager,Ghaziabad,No,25.063134687515337,Medium,Good,Yes,25.8945646896529,Low,Good
+23,Male,Copy,Belgaum,Yes,25.962504261487755,High,Good,No,26.840751681051714,Medium,Poor
+23,Male,Industrial/product designer,Raurkela Industrial Township,No,36.198420076796,High,Good,No,37.11789009204225,Low,Poor
+28,Male,Quantity surveyor,Tinsukia,No,16.190706391586815,Low,Moderate,No,16.252359983043142,Low,Poor
+31,Female,Television camera operator,Lucknow,No,21.477461291167263,Low,Good,No,21.264500909677384,Medium,Moderate
+26,Male,"Engineer, water",Allahabad,No,22.869770999903036,Medium,Good,No,22.728100376864838,Low,Poor
+34,Male,Forensic psychologist,Kochi,No,38.579959890742,Medium,Good,No,37.69180133617154,Low,Good
+26,Male,"Engineer, land",Tumkur,No,23.167474299763764,Low,Good,Yes,22.87875510596274,Low,Good
+22,Male,Claims inspector/assessor,Bongaigaon,No,29.8869351009618,High,Good,No,31.746312886783414,High,Good
+23,Male,Clinical psychologist,Aurangabad,No,29.278916744091454,High,Good,No,29.758276411857914,High,Good
+33,Female,Veterinary surgeon,Katihar,No,22.169179044554344,Medium,Good,No,22.628053547085816,Low,Good
+22,Female,Best boy,Jalandhar,Yes,25.0600568452506,Low,Good,Yes,27.171143942852783,Medium,Good
+28,Female,Oncologist,Pali,Yes,26.838707480775792,Low,Poor,No,27.839247860836174,Medium,Moderate
+30,Male,Charity officer,Thoothukudi,No,29.74585672959713,High,Moderate,No,32.17481730097111,Medium,Poor
+33,Female,"Radiographer, diagnostic",Karimnagar,No,18.463227306848633,Medium,Good,No,19.371629156023157,Low,Good
+32,Female,Naval architect,Akola,No,23.289677285517477,Medium,Good,No,24.53024361113698,Low,Good
+26,Male,"Psychologist, prison and probation services",Mahbubnagar,No,16.00563276829177,High,Good,Yes,17.4785752654694,Low,Moderate
+29,Female,Early years teacher,Agra,No,38.05997344590522,Low,Good,No,39.858962607521185,Low,Moderate
+28,Male,Risk analyst,Darbhanga,Yes,23.684536869122688,Medium,Good,No,24.447389065879324,Low,Moderate
+27,Male,Astronomer,Rohtak,No,27.203228409639863,Medium,Good,No,28.343344274275914,Medium,Moderate
+32,Female,"Pharmacist, community",Srikakulam,Yes,20.50797578395398,Medium,Good,No,20.57343256792507,Low,Moderate
+22,Male,"Runner, broadcasting/film/video",Chinsurah,No,19.888430126172405,Medium,Moderate,No,21.561997631354867,Low,Moderate
+27,Male,Equities trader,Ramgarh,Yes,33.27239242830567,Medium,Good,Yes,33.65008269195733,High,Good
+27,Male,Training and development officer,Vadodara,No,25.57790286831621,Low,Good,No,26.966209786547704,Low,Moderate
+35,Male,Industrial/product designer,Jalgaon,Yes,22.225657540872813,Low,Good,No,22.602166018663493,Medium,Good
+35,Female,Geophysical data processor,Bally,No,18.850284107568058,Medium,Poor,No,21.677598199610404,High,Poor
+33,Female,Research scientist (physical sciences),Ghaziabad,Yes,24.03349328482239,Medium,Moderate,Yes,26.161900311861988,Medium,Poor
+26,Male,"Surveyor, rural practice",Dhule,No,30.62921853346527,Medium,Good,No,34.43787606960304,Medium,Moderate
+24,Female,"Administrator, arts",Rohtak,Yes,14.975022264168,Medium,Moderate,No,16.07133089027531,Medium,Poor
+27,Male,Stage manager,Bhusawal,No,29.946421042012105,Medium,Moderate,Yes,31.650146470705753,Low,Moderate
+30,Male,Stage manager,Vasai-Virar,No,24.550143996707963,Medium,Good,No,25.049305545014064,Low,Moderate
+27,Male,Public affairs consultant,Noida,No,29.448654418039148,Low,Good,Yes,32.9302579517301,High,Good
+27,Male,"Surveyor, building control",Jamnagar,No,22.58712604137474,Low,Good,Yes,23.04136902021674,High,Moderate
+33,Female,Publishing copy,Yamunanagar,No,24.273502497472343,High,Good,Yes,26.799564061811303,Low,Moderate
+34,Female,Forest/woodland manager,Tiruchirappalli,No,31.48442973724253,Medium,Good,No,33.60642910792,Medium,Moderate
+24,Female,"Exhibitions officer, museum/gallery",Kolkata,Yes,20.295909268007,Low,Good,No,20.882680158851688,Medium,Poor
+28,Female,Pensions consultant,Alappuzha,No,29.091859508012405,Low,Good,No,29.385872909513363,Medium,Good
+29,Male,"Administrator, local government",Bhopal,Yes,22.62816295032756,High,Good,Yes,24.400757320523848,Low,Good
+22,Male,Radio broadcast assistant,Katihar,No,19.93122789488029,Medium,Good,No,21.310093466125785,Low,Good
+27,Male,Commercial/residential surveyor,Ambarnath,No,22.28048273196675,Medium,Good,Yes,23.60275102979009,Low,Good
+35,Female,Proofreader,Davanagere,No,25.99593253129062,High,Moderate,No,27.020113731391415,Low,Moderate
+30,Female,"Surveyor, quantity",Nangloi Jat,No,28.207492897025304,Low,Moderate,No,29.34890608839556,Low,Good
+24,Male,"Scientist, marine",Bhiwandi,No,22.804734594423365,Medium,Good,No,25.02866559652479,Low,Poor
+28,Male,Control and instrumentation engineer,Nandyal,No,24.778952264060184,Medium,Good,Yes,26.40153585097168,Medium,Poor
+32,Female,"Geneticist, molecular",Kishanganj,No,21.932203315317903,Low,Good,No,23.804719556396737,Low,Good
+23,Female,Insurance claims handler,Aurangabad,No,25.57355596726595,Low,Good,Yes,27.354420738993987,Medium,Good
+24,Male,Theatre director,Bhind,Yes,17.08065108343528,Medium,Good,Yes,18.55383792361121,Low,Good
+26,Female,Fisheries officer,Mangalore,No,18.61504288754557,Low,Moderate,No,18.288895591857223,Low,Good
+26,Male,Chartered loss adjuster,Amaravati,No,31.490881905085374,Medium,Good,No,31.68493397174173,Low,Good
+26,Female,"Administrator, sports",Ludhiana,No,24.817856800289473,Medium,Good,No,25.440576826971224,Low,Poor
+23,Male,"Scientist, biomedical",Meerut,No,31.887246767868728,Medium,Poor,No,32.43288418664385,High,Poor
+32,Female,"Horticulturist, commercial",Bidhannagar,No,28.342547016025776,Medium,Moderate,Yes,32.33415092155854,Medium,Moderate
+22,Female,Catering manager,Buxar,Yes,23.58858428164547,High,Good,Yes,25.485470139250033,High,Good
+27,Female,Armed forces operational officer,Bhilai,No,16.27647268732781,High,Good,No,17.263629537448175,Low,Moderate
+24,Female,Manufacturing engineer,Nagercoil,No,21.062781163498233,Low,Good,No,21.58807299076247,Low,Good
+32,Female,Ecologist,Gopalpur,No,17.959087229816678,Medium,Good,Yes,18.133279876550436,High,Moderate
+29,Female,Proofreader,Vadodara,No,24.926856155555853,Medium,Moderate,No,25.83610551058263,Medium,Good
+35,Female,Retail banker,Tiruppur,No,18.327226897138956,High,Good,No,18.982005036211532,Low,Good
+27,Female,Music tutor,Bhiwandi,No,31.050734477109845,Medium,Good,No,32.070426239254715,Medium,Good
+31,Male,Higher education lecturer,Aizawl,No,24.292387997212032,Medium,Good,No,23.98257219287553,Low,Poor
+27,Male,General practice doctor,Ambattur,No,29.935794690778422,Medium,Good,No,31.562824882630196,Low,Poor
+26,Female,Technical brewer,Gudivada,Yes,24.4274606197257,High,Moderate,Yes,24.720939232782886,Low,Good
+30,Female,Archaeologist,Amravati,Yes,24.79177905548158,Medium,Moderate,No,24.703802069304366,Low,Moderate
+30,Female,Dancer,Uluberia,No,24.420228638067837,Medium,Good,Yes,26.085737689273174,Low,Good
+25,Female,Textile designer,Ahmedabad,No,33.94096449103898,High,Poor,No,35.97343621092631,Medium,Good
+32,Male,Community education officer,Bhatpara,No,31.352951341669304,Medium,Poor,Yes,31.596183851242813,High,Moderate
+25,Male,Careers information officer,Sultan Pur Majra,No,29.79387096412055,High,Good,Yes,30.265745314807713,Low,Good
+35,Male,Retail banker,Mumbai,Yes,21.73565973590714,Low,Good,No,22.49713879941228,Low,Moderate
+26,Male,Location manager,Muzaffarpur,No,33.69970064406998,Low,Moderate,No,34.66612425581806,Medium,Good
+31,Female,Database administrator,Eluru,No,20.509375689250643,High,Poor,No,21.744597263500253,Medium,Moderate
+33,Female,Publishing copy,Panchkula,No,30.999096579458268,Medium,Moderate,No,32.5043445910243,Medium,Poor
+22,Female,Hydrographic surveyor,Purnia,No,26.05390174283368,Medium,Good,No,27.704832186166165,Medium,Good
+27,Female,Newspaper journalist,Tiruppur,No,24.124510599211227,High,Good,No,26.428571423352377,Medium,Good
+29,Male,Regulatory affairs officer,Ujjain,No,32.050974273602215,Medium,Moderate,No,33.526679620434415,Medium,Good
+23,Female,Legal executive,Kadapa,Yes,16.37424427900793,Medium,Good,No,17.73441303757815,High,Good
+25,Female,"Surveyor, building control",Sikar,No,30.770497891258728,Medium,Poor,No,31.29103464418676,Medium,Good
+25,Male,Editorial assistant,Ambarnath,No,18.686233592511,High,Good,Yes,19.373494929846395,Low,Moderate
+30,Male,Materials engineer,Bhilwara,No,21.58938447739642,Medium,Moderate,No,22.473639231313438,Medium,Moderate
+35,Male,Estate manager/land agent,Hindupur,No,22.69976876861145,Low,Good,No,23.72735029131144,Medium,Good
+22,Male,Set designer,Ahmedabad,No,27.190903993605932,Low,Good,Yes,30.200964876182667,Low,Good
+29,Male,Systems analyst,Khora ,Yes,31.88376107485131,Low,Poor,No,33.04219859934467,Medium,Moderate
+35,Female,"Librarian, academic",Durgapur,Yes,25.00643770622853,Low,Poor,No,25.776661452121278,Low,Moderate
+23,Male,Transport planner,Vasai-Virar,No,24.27674363942801,Medium,Good,Yes,24.904186629474502,Low,Good
+31,Male,Civil Service administrator,Srinagar,Yes,16.74171018323156,High,Poor,Yes,17.931969070959315,Medium,Poor
+33,Male,Fish farm manager,Gaya,No,30.593106690153242,High,Poor,No,32.090059414003115,High,Moderate
+27,Female,Product/process development scientist,Thane,No,18.97204652490334,Medium,Good,No,21.129694773414084,Low,Good
+27,Female,Health promotion specialist,Loni,No,32.636251286387754,Medium,Good,Yes,34.11846423510334,Medium,Moderate
+35,Male,Chiropodist,Ranchi,Yes,19.01201083920433,Medium,Good,No,21.163653680956717,Medium,Moderate
+23,Male,Telecommunications researcher,Uluberia,No,19.43758942787409,Medium,Good,No,20.067001609928198,High,Good
+32,Female,Waste management officer,Gandhinagar,No,30.237450519482827,High,Moderate,Yes,30.23823811946652,Medium,Good
+34,Female,"Administrator, Civil Service",Udupi,No,21.96102745391501,Medium,Good,No,22.941151426331857,Low,Good
+29,Male,"Scientist, research (life sciences)",Bettiah,No,27.53181449293865,Medium,Good,No,29.28896161802522,Low,Moderate
+33,Female,Records manager,Pallavaram,Yes,24.604482270870527,High,Poor,No,25.754982845051792,High,Good
+26,Male,Herbalist,Dehradun,No,28.1331535773684,Low,Poor,Yes,26.91984750995519,Low,Poor
+26,Female,Claims inspector/assessor,Shimoga,No,25.575251440913323,Low,Moderate,No,26.660416202490048,Medium,Moderate
+30,Male,Glass blower/designer,Loni,No,28.297291881896957,High,Moderate,Yes,28.013498123753994,Low,Moderate
+22,Female,Fashion designer,Firozabad,Yes,27.008165250614244,Medium,Moderate,No,27.783973070955874,High,Poor
+25,Male,"Optician, dispensing",Bhiwani,Yes,10.947178952154353,Medium,Moderate,No,12.718534078896381,Medium,Good
+35,Female,Geographical information systems officer,Panvel,No,22.64286987771383,High,Good,No,23.945794178345174,Medium,Moderate
+33,Male,Emergency planning/management officer,Panipat,No,20.444539074925252,Medium,Good,Yes,20.35989637207798,Medium,Good
+32,Female,Interpreter,Jamalpur,No,16.353111620863697,Medium,Moderate,Yes,16.674150305143964,Medium,Good
+26,Female,"Embryologist, clinical",Ramagundam,No,24.4729530247896,Medium,Good,No,24.862811660865106,Low,Good
+30,Male,Animator,Mahbubnagar,No,20.921618378961718,Low,Good,No,21.252545501445884,Low,Poor
+30,Female,Structural engineer,Kota,No,19.115979421023503,Low,Good,Yes,19.746305643180232,Medium,Moderate
+34,Male,Chief Financial Officer,Kurnool,No,26.711425925784148,Low,Good,No,28.781575355158317,Medium,Moderate
+32,Female,Economist,Muzaffarpur,Yes,18.140111313493822,High,Good,No,18.04752553116366,Low,Good
+23,Female,Social worker,Imphal,Yes,26.31590010698701,High,Good,No,26.57510417089993,High,Good
+32,Female,"Engineer, civil (consulting)",Tadipatri,Yes,22.99759319540736,Low,Good,No,26.12092340820898,Low,Moderate
+27,Female,Investment analyst,Bhopal,No,25.220553900820008,Medium,Good,No,24.505695262463906,Medium,Poor
+35,Female,Electronics engineer,Tirupati,No,30.955137817853696,Medium,Good,No,33.89785531192884,Medium,Good
+25,Male,"Scientist, product/process development",Fatehpur,No,23.429474391644966,Low,Moderate,No,24.86120250016268,Low,Poor
+34,Female,Ecologist,Jalna,Yes,25.924474133526264,Low,Poor,Yes,27.919939760797746,Low,Good
+31,Female,Medical illustrator,Haldia,No,19.408382191704334,Medium,Good,No,21.596896028003954,Low,Good
+22,Male,Chartered loss adjuster,Panihati,No,27.422263430427115,High,Good,No,28.37032461183913,Low,Poor
+32,Male,Patent attorney,Bihar Sharif,No,28.75874526501624,High,Good,No,30.446795305871035,High,Poor
+24,Male,"Therapist, drama",Mango,No,23.67277181162735,Medium,Good,No,24.700695609785573,Medium,Good
+28,Male,Telecommunications researcher,Panipat,No,23.635510111121462,Medium,Good,No,24.567386006433253,Low,Good
+28,Male,Geoscientist,Bhagalpur,No,25.00541710473755,Medium,Good,No,26.38444458238202,Medium,Moderate
+34,Female,Warehouse manager,Guntakal,No,24.060846739552403,Low,Good,No,24.315126335544907,Medium,Good
+33,Male,Press sub,Gangtok,No,17.929399228375257,High,Poor,No,18.688578635100185,Medium,Good
+24,Female,"Librarian, academic",Naihati,No,24.226497722307393,Medium,Good,No,24.785198524842073,Low,Good
+24,Female,"Surveyor, quantity",Alwar,No,16.057988756044317,High,Good,No,17.490125881789474,Medium,Moderate
+33,Female,Electrical engineer,Dehradun,Yes,32.65338201044061,Low,Good,No,33.37814688559242,High,Poor
+22,Male,"Development worker, international aid",Bidhannagar,Yes,16.51735390108818,Medium,Good,No,17.3922182505118,High,Moderate
+26,Male,"Engineer, electrical",Jaipur,Yes,8.114227255634209,Medium,Good,Yes,8.17942995531173,Low,Poor
+25,Female,IT consultant,Parbhani,No,25.036693054712217,Low,Poor,Yes,26.220208260391665,Medium,Good
+32,Female,Glass blower/designer,Yamunanagar,Yes,20.342179341740888,High,Good,No,22.943992214909915,Low,Good
+35,Male,Diagnostic radiographer,Srikakulam,No,33.288929834100216,Medium,Good,No,35.41126374930943,High,Moderate
+35,Male,"Investment banker, corporate",Ballia,Yes,25.256760957783236,Low,Good,No,24.628445860844554,High,Good
+30,Female,Child psychotherapist,Agra,No,27.53287401382436,High,Good,No,27.786279280385692,Low,Moderate
+32,Male,"Designer, multimedia",Ozhukarai,No,39.77326802595221,Medium,Good,Yes,39.60416597564636,Medium,Good
+26,Female,Operations geologist,Yamunanagar,No,31.99705344002785,Medium,Good,No,31.55112997257102,Medium,Poor
+25,Female,Oceanographer,Jamalpur,No,27.031890938163286,High,Good,No,28.819177561278202,High,Good
+27,Female,"Producer, radio",Thrissur,No,19.16055339082468,Medium,Good,No,21.16407634717221,High,Moderate
+32,Male,Technical author,Ahmedabad,No,20.213621050736705,Low,Good,No,22.689715206485396,Medium,Good
+27,Female,Glass blower/designer,Karimnagar,Yes,36.0401357377489,High,Good,No,36.44803249141927,Low,Good
+25,Male,"Engineer, petroleum",Jamshedpur,No,21.759633830562194,Low,Good,No,22.247868345512504,Medium,Good
+23,Female,"Teacher, English as a foreign language",Dhule,No,23.973932437423745,High,Good,Yes,25.103646798233388,Medium,Moderate
+23,Male,Print production planner,Dehradun,Yes,22.7840929418992,High,Good,No,23.36948470875816,Low,Good
+30,Female,Materials engineer,Cuttack,No,19.841316380115526,Medium,Good,No,22.78399648786292,Medium,Poor
+35,Female,Logistics and distribution manager,Bulandshahr,No,34.82322431871724,Medium,Poor,No,36.992112273275275,High,Moderate
+35,Male,Media planner,Dhule,No,23.957376925634605,Medium,Poor,No,22.97714040557161,Medium,Good
+35,Female,Patent attorney,Thanjavur,No,20.50559959904328,Low,Good,No,21.864723127239976,Medium,Moderate
+24,Female,Charity fundraiser,Mahbubnagar,Yes,22.249595132751427,High,Good,Yes,22.286654866101625,Low,Good
+27,Female,Warden/ranger,Narasaraopet,No,29.866841016164898,Medium,Good,Yes,31.932581398066596,Medium,Moderate
+31,Female,Community development worker,Firozabad,No,24.05447759927218,Low,Moderate,No,25.524351864654705,Medium,Moderate
+35,Male,Operations geologist,Bhimavaram,Yes,30.21816736681744,Low,Good,No,31.975354119532795,Medium,Good
+32,Female,Dramatherapist,Durgapur,No,34.11413702784261,High,Good,No,35.42911758415558,Medium,Good
+35,Male,Lobbyist,Jodhpur,No,23.266573596543775,Medium,Good,No,24.305673066283905,Medium,Poor
+29,Male,Pharmacologist,Bettiah,No,20.31947869971883,High,Poor,No,20.73477649263199,Medium,Moderate
+31,Female,Counsellor,Bhiwandi,Yes,23.513403558627303,Medium,Good,No,25.48517305648016,Low,Moderate
+31,Female,Research scientist (maths),Bhusawal,No,24.045304606946505,High,Good,Yes,26.3831238132281,Low,Moderate
+26,Female,Health and safety inspector,Amaravati,No,20.5552618467195,High,Poor,No,23.251356904317262,Medium,Moderate
+22,Male,Agricultural consultant,Jamshedpur,No,25.20924557345403,Low,Good,No,26.760336424439398,Medium,Good
+26,Male,"Psychologist, prison and probation services",Sikar,Yes,26.510759401629997,Medium,Poor,Yes,28.601367092021476,Medium,Good
+24,Female,Early years teacher,Begusarai,No,28.237070074968475,High,Poor,Yes,28.61876977599323,High,Poor
+26,Male,Paramedic,Jabalpur,Yes,18.684099013430526,Medium,Good,No,18.989351662044776,Low,Good
+35,Male,Jewellery designer,Bhopal,Yes,31.7431040073347,Low,Moderate,Yes,31.752489702463798,Low,Good
+29,Male,"Engineer, automotive",Pune,No,15.118893227860129,Medium,Good,No,13.91712054541319,Medium,Moderate
+25,Male,Exercise physiologist,Nizamabad,Yes,17.894813432556994,Medium,Moderate,No,18.56837646285379,Low,Moderate
+34,Female,Site engineer,Anantapuram,Yes,18.601167299917286,Medium,Good,No,20.079922185073606,Low,Moderate
+34,Female,Tour manager,Adoni,No,23.711178776332545,High,Good,Yes,24.009595386705662,Low,Moderate
+32,Female,"Clinical scientist, histocompatibility and immunogenetics",Hajipur,Yes,30.91637841103043,Low,Moderate,No,32.6558735532358,High,Good
+27,Female,Minerals surveyor,Khandwa,No,19.68646296009052,High,Good,No,22.68106963362586,Low,Moderate
+35,Male,Geochemist,Jaunpur,Yes,24.80007426877601,Medium,Good,No,24.312035762031304,Medium,Good
+29,Female,Press photographer,Karaikudi,Yes,19.740174493985087,Low,Moderate,Yes,20.382534547982136,Medium,Poor
+33,Male,"Optician, dispensing",Anantapuram,Yes,22.468220849003494,Medium,Moderate,No,23.274874299636632,High,Moderate
+33,Female,Technical sales engineer,Hazaribagh,No,21.88772505813904,Low,Good,No,20.78111101719869,Medium,Good
+31,Female,Field trials officer,Haridwar,No,26.883438399173897,High,Good,No,27.505869982213724,Medium,Good
+31,Female,Mental health nurse,Junagadh,No,21.91835934532916,Low,Moderate,No,22.72052826597491,Medium,Moderate
+35,Male,Museum/gallery exhibitions officer,Bilaspur,No,28.94212899441434,High,Good,No,31.95509516557464,Medium,Good
+30,Female,Youth worker,Moradabad,No,29.121412374460053,Medium,Good,No,29.937233818908123,Medium,Moderate
+22,Male,"Engineer, biomedical",Bhavnagar,No,35.330099873364894,Medium,Good,No,35.909225205110985,Low,Poor
+23,Male,Radio producer,Rajahmundry,Yes,22.95625295433424,High,Poor,No,24.461226045638256,Low,Good
+34,Male,Regulatory affairs officer,Patiala,Yes,28.821281788329642,High,Good,No,32.03130601403792,Low,Moderate
+32,Male,Volunteer coordinator,Bhatpara,No,23.212049953990867,High,Good,No,22.922423570478472,Low,Moderate
+25,Female,Chief Executive Officer,Jehanabad,No,24.334232163778168,High,Good,No,25.31404497762972,Low,Poor
+22,Male,Plant breeder/geneticist,Bilaspur,No,17.872093680606834,Medium,Good,Yes,19.10074846523537,Medium,Moderate
+24,Male,"Therapist, occupational",Bhubaneswar,No,15.76561606096311,Low,Good,No,18.16645215884767,Medium,Moderate
+28,Male,Fine artist,Raichur,No,29.0795760705122,High,Poor,No,30.047870339157825,High,Good
+26,Female,Fine artist,Gudivada,No,22.753907326787214,Low,Good,No,22.778004605194283,Medium,Poor
+24,Male,Forensic scientist,Secunderabad,No,29.32986455684209,High,Good,No,31.02423548714203,Medium,Moderate
+22,Female,Dance movement psychotherapist,Ajmer,No,25.62397554474766,High,Good,No,25.501260282861416,High,Good
+29,Male,"Investment banker, operational",Thoothukudi,Yes,18.711734665048787,Medium,Good,No,19.1379223732957,Medium,Poor
+29,Male,"Radiographer, diagnostic",Tenali,No,28.87244108778914,High,Good,No,30.39602073692664,Low,Poor
+28,Female,Probation officer,Jamalpur,No,27.344194989451996,High,Good,No,27.918823604862606,Low,Good
+24,Female,Chartered loss adjuster,North Dumdum,No,25.361664345402637,Low,Moderate,No,26.335215743938555,Low,Good
+25,Female,Outdoor activities/education manager,Nandyal,No,22.81235034496882,Medium,Moderate,Yes,23.884973597884922,High,Good
+31,Female,"Producer, radio",Rourkela,Yes,23.05150043411185,High,Moderate,No,23.468564130183008,Medium,Moderate
+30,Male,Oceanographer,Bokaro,No,23.820774790462092,High,Good,Yes,24.445933986618016,Medium,Poor
+28,Female,Accounting technician,Bhilai,No,18.01850395737936,High,Moderate,No,19.75326660114171,Medium,Good
+32,Female,Patent examiner,Kulti,Yes,20.603353334282872,Low,Good,No,19.977821780379493,Low,Good
+30,Female,Forensic scientist,Hospet,No,25.12271465059995,Low,Moderate,No,26.52409268803453,Medium,Moderate
+31,Male,"Programmer, systems",Unnao,Yes,19.78993347538421,Low,Moderate,No,21.31711428191449,High,Good
+33,Male,Broadcast presenter,Hosur,No,36.772474246220995,High,Poor,No,35.84009155940634,High,Poor
+28,Male,Accounting technician,Sultan Pur Majra,No,34.71085964313872,High,Good,No,36.09505123407837,Medium,Poor
+35,Male,Health physicist,Indore,No,21.763188556796774,High,Good,No,23.401958620633838,Low,Moderate
+27,Female,Training and development officer,Giridih,No,24.028783007662412,Medium,Good,Yes,25.003773137971493,High,Moderate
+30,Male,"Exhibitions officer, museum/gallery",Jabalpur,No,29.2910360367647,Medium,Good,No,29.3882717105699,Medium,Moderate
+33,Female,Systems analyst,Kolhapur,No,30.392323222239167,Low,Good,No,32.52015056721988,Medium,Good
+35,Female,Professor Emeritus,Tenali,No,37.17656334506607,Medium,Poor,Yes,39.75426691244412,Low,Moderate
+27,Male,Armed forces operational officer,Ujjain,No,27.414377750021714,Medium,Good,No,27.296079525222503,Medium,Good
+24,Female,Health service manager,Dhule,No,15.922975864441813,High,Good,Yes,16.903553654535504,High,Poor
+24,Female,Fast food restaurant manager,Ranchi,No,22.58043580401147,Medium,Moderate,No,22.832873691635502,High,Good
+25,Female,International aid/development worker,Nangloi Jat,No,31.33973597008652,High,Good,No,32.37738509264852,Low,Moderate
+33,Female,"Designer, multimedia",Adoni,Yes,15.892703613917345,High,Good,No,17.067835709826547,High,Good
+31,Male,Patent attorney,Bhiwani,Yes,24.848828526765853,High,Moderate,No,25.331511510521047,Medium,Moderate
+32,Male,Travel agency manager,Kozhikode,No,22.691945898065715,Medium,Good,No,24.716288194966197,Medium,Good
+31,Female,Television floor manager,Kottayam,No,30.556816072782997,Medium,Poor,No,29.94299275137108,Medium,Moderate
+27,Male,Textile designer,Rohtak,No,19.68668185376829,High,Poor,Yes,21.897528827281246,Low,Good
+22,Male,Legal executive,Ballia,No,25.295095272830423,Low,Good,No,25.64578633145919,Low,Moderate
+33,Female,"Therapist, sports",Miryalaguda,No,22.430253917634793,Medium,Good,No,23.056788849171095,Low,Good
+35,Male,Museum/gallery conservator,South Dumdum,No,23.98340668883903,Low,Moderate,No,25.2743123373669,Low,Good
+28,Male,Analytical chemist,Bhiwani,Yes,28.311457303843845,Low,Good,No,28.11832075525914,Medium,Moderate
+34,Male,Occupational hygienist,Rajkot,No,26.89172629498814,High,Good,No,25.924430154761012,High,Moderate
+24,Female,Chief Operating Officer,Kolkata,No,22.56027267370166,Medium,Moderate,No,23.311928233733568,Medium,Moderate
+24,Male,Radiation protection practitioner,Bidhannagar,No,28.086125067019278,Medium,Good,Yes,27.774467377622944,Low,Good
+22,Female,Sports administrator,Darbhanga,No,22.412012611895264,High,Good,No,21.76547025577204,High,Moderate
+25,Female,"Runner, broadcasting/film/video",Buxar,No,20.33881581584208,Low,Good,No,20.856575170073796,Medium,Moderate
+35,Male,"Scientist, research (medical)",Surendranagar Dudhrej,No,28.587323118998174,Medium,Good,Yes,29.64320849526789,Low,Moderate
+28,Male,"Engineer, maintenance",New Delhi,No,25.0589458835199,High,Good,No,27.1431095420442,Medium,Good
+32,Female,Financial manager,Proddatur,No,25.8262036652781,High,Good,Yes,26.937534176421973,Medium,Moderate
+35,Female,Sub,Delhi,No,28.81246968005095,Low,Poor,No,30.23433357297253,Low,Moderate
+22,Female,Retail manager,Yamunanagar,Yes,21.422264986022363,Medium,Good,No,23.217115095697114,Medium,Moderate
+31,Male,Musician,Alappuzha,Yes,25.263658262451813,Medium,Good,No,26.24293422108369,High,Good
+30,Female,Commissioning editor,Satna,No,23.768171311644693,Medium,Good,Yes,23.79608446115667,High,Moderate
+29,Male,Dancer,Sikar,No,27.242468029869794,Medium,Good,Yes,28.748210716179976,Medium,Good
+30,Female,Chartered certified accountant,Amaravati,No,29.95477850603113,Low,Good,No,30.728934030155337,Medium,Good
+32,Female,Insurance risk surveyor,Erode,No,31.28216749853608,Medium,Good,No,31.319079764581648,Medium,Moderate
+26,Female,Catering manager,Buxar,Yes,26.672400029824274,High,Good,No,26.538589681965068,Low,Good
+23,Female,Public relations account executive,Varanasi,No,21.437834719432416,Medium,Good,No,24.423032531089476,High,Moderate
+25,Male,Petroleum engineer,Bhalswa Jahangir Pur,No,26.67513201682975,High,Good,No,26.716616794257252,Low,Poor
+28,Male,Firefighter,Amaravati,No,23.306560290765198,Low,Good,No,24.020822327612258,Medium,Moderate
+34,Male,"Psychologist, educational",Nadiad,Yes,23.68963751541803,High,Moderate,No,25.143881198751476,Low,Moderate
+24,Female,Research scientist (medical),Satna,Yes,26.952841627467315,Medium,Good,No,30.005355465772933,Low,Good
+30,Male,Chief of Staff,Kochi,No,19.464189231757366,Low,Good,Yes,21.740032323589833,High,Poor
+33,Male,Newspaper journalist,Latur,No,26.350435967023238,High,Good,No,27.96473247354159,High,Good
+30,Male,Contractor,Siwan,No,26.494201944528083,High,Good,Yes,27.575139550944574,Medium,Good
+32,Male,Building control surveyor,Bijapur,No,26.334735044542047,Medium,Good,No,27.65427998590338,Medium,Good
+33,Male,"Biochemist, clinical",Pudukkottai,No,25.815885370741174,High,Good,Yes,26.3459742483772,High,Moderate
+28,Male,Tourist information centre manager,Bihar Sharif,No,22.199772249043964,Low,Moderate,No,22.96986337215272,High,Poor
+35,Male,Structural engineer,Barasat,Yes,16.63690179190293,High,Moderate,No,17.931279069906417,Low,Poor
+32,Male,Ambulance person,Medininagar,No,9.349450436774596,Medium,Good,No,10.048543108457242,Low,Good
+26,Female,"Conservation officer, historic buildings",Sagar,Yes,21.049020488652026,Low,Good,No,20.516980085544645,Medium,Poor
+24,Female,Fitness centre manager,Asansol,No,24.596323979412915,Medium,Good,No,25.58702531355179,Low,Moderate
+34,Female,Information systems manager,Munger,Yes,27.314790530739465,Medium,Good,No,28.49581671400218,Medium,Good
+24,Male,Product designer,Udupi,No,30.775486422970936,High,Good,No,32.244608057831314,Low,Good
+28,Female,Air traffic controller,Surat,Yes,31.329398191450657,High,Poor,No,32.76021029642618,Low,Poor
+23,Male,Press sub,Panipat,No,26.14808644073535,Low,Good,No,28.315907120882077,Low,Moderate
+32,Female,"Teacher, English as a foreign language",Raebareli,No,20.723375865625208,Medium,Good,Yes,21.863589540071715,Low,Good
+25,Male,Facilities manager,Madhyamgram,No,32.98321722271365,High,Moderate,No,36.05535519321331,Low,Moderate
+33,Male,Freight forwarder,Meerut,No,22.452858911822897,High,Poor,No,23.236284040718395,Medium,Moderate
+33,Male,Equities trader,Pallavaram,No,35.741543896669974,High,Moderate,No,35.259339837791146,Medium,Good
+22,Female,Chief Marketing Officer,Pondicherry,No,20.792179653414323,Low,Good,No,21.456941668669696,Medium,Poor
+35,Female,Counselling psychologist,Panvel,No,32.13137959794504,Medium,Good,No,34.75388370987054,Medium,Moderate
+28,Male,Bonds trader,Rohtak,No,7.660206200803717,High,Good,No,8.403968247189258,Medium,Poor
+34,Female,"Journalist, magazine",Bhilai,No,28.904729065663155,Low,Moderate,No,28.364448015227726,Medium,Good
+25,Male,Legal secretary,Panipat,No,30.455281990945956,High,Good,No,31.859291512771854,Medium,Good
+35,Male,Automotive engineer,Muzaffarpur,Yes,32.394207483491414,Medium,Moderate,No,32.38470298414518,High,Moderate
+22,Female,Theme park manager,Mumbai,No,24.232494955763304,Low,Good,Yes,25.727680107674487,Medium,Moderate
+32,Male,Community arts worker,Dewas,No,28.752879550692022,Low,Moderate,Yes,29.267478152329115,High,Good
+29,Female,Paediatric nurse,Hosur,No,30.371472529287626,Medium,Good,Yes,31.50450756607902,Medium,Good
+26,Male,"Nurse, adult",Gorakhpur,No,26.864889076206914,Medium,Good,No,28.032236901000285,Medium,Moderate
+30,Male,Aeronautical engineer,Udaipur,No,27.102378699801474,Medium,Good,No,28.711659529113064,Medium,Good
+30,Male,Adult nurse,Alappuzha,No,33.480070401079004,Medium,Good,No,34.629154658972965,Low,Good
+26,Female,Health and safety inspector,Danapur,No,31.591435565774088,Medium,Good,No,32.11380551318311,Low,Good
+29,Male,Data scientist,Belgaum,No,26.416693093805403,High,Good,No,27.894348972177408,Medium,Moderate
+25,Female,"Administrator, sports",Vijayawada,Yes,22.92849475843774,High,Good,No,23.419629371969553,Low,Good
+31,Male,Animal technologist,Chapra,Yes,24.46967300722128,High,Good,No,25.52882005579589,Low,Moderate
+25,Female,Civil Service administrator,Secunderabad,No,23.35876367856284,High,Good,No,26.041243318983632,Medium,Good
+35,Male,Garment/textile technologist,Agra,Yes,25.55778408725169,Medium,Good,No,27.3706204902424,Medium,Good
+35,Female,"Surveyor, insurance",Jalandhar,No,17.725825368704864,High,Good,No,19.074298100850083,Medium,Good
+23,Female,Applications developer,Aligarh,No,20.91017390382525,High,Poor,No,22.200947694537703,Medium,Moderate
+23,Female,Occupational psychologist,Jamnagar,No,22.933385997549653,Low,Good,Yes,24.336199051098543,Medium,Poor
+22,Male,Consulting civil engineer,Pimpri-Chinchwad,No,24.36153210647132,Medium,Poor,No,26.336690412204394,Low,Poor
+33,Male,Contracting civil engineer,Nandyal,No,17.30567669088488,Medium,Good,Yes,18.591112905040507,Low,Good
+32,Male,Manufacturing engineer,Malda,No,27.30348218721173,Low,Good,No,29.81207898724862,Low,Good
+25,Female,Sports administrator,Chandigarh,Yes,22.990742266925185,Low,Good,No,22.232245542135004,Low,Good
+33,Male,Building control surveyor,Kolkata,No,34.99612666508597,Low,Good,No,36.52365809304584,Medium,Good
+31,Female,Web designer,Kolhapur,No,23.861834838257842,High,Poor,No,23.68631881861114,High,Moderate
+33,Female,Fisheries officer,Vadodara,No,24.297941344531868,Medium,Good,No,25.163436993926798,Medium,Moderate
+26,Female,Information officer,Bhiwani,No,29.224936397255988,Medium,Moderate,No,31.10979014127731,High,Good
+28,Male,Mental health nurse,Bhalswa Jahangir Pur,No,35.086965356218315,Medium,Good,No,33.42815013297546,Medium,Poor
+33,Female,Academic librarian,Mysore,No,20.61865868645576,High,Good,No,22.045333086938825,Medium,Poor
+23,Female,Mining engineer,Sangli-Miraj & Kupwad,No,29.455513443388956,Medium,Good,No,30.628378940696003,Medium,Moderate
+29,Male,Orthoptist,Gurgaon,No,21.478343775635143,Low,Good,Yes,21.733071129518155,Low,Poor
+24,Female,"Librarian, academic",Ramgarh,No,27.38439004744147,High,Moderate,No,28.63054109594819,Low,Good
+30,Male,Housing manager/officer,Uluberia,No,24.551349659030798,Low,Good,No,25.54109772974931,High,Good
+23,Male,"Chemist, analytical",Adoni,Yes,27.27349521150454,Medium,Good,No,29.695431086856672,Low,Moderate
+25,Male,"Research officer, political party",Ongole,No,24.49515788555377,Low,Good,Yes,25.43710732528181,Low,Good
+27,Female,Market researcher,Chandigarh,No,20.07675366343201,Medium,Good,Yes,21.327495576182653,Low,Good
+34,Male,Dealer,Chapra,No,30.98557420192366,High,Good,No,33.256233118695086,Low,Poor
+30,Male,"Designer, fashion/clothing",Arrah,Yes,28.89958949926016,Medium,Good,No,28.82711365690419,Low,Good
+26,Male,"Production assistant, television",Kolhapur,No,26.894767469387208,Low,Good,No,27.176189639754526,Medium,Poor
+34,Female,"Biochemist, clinical",Pudukkottai,No,16.16610950896493,Low,Good,Yes,16.68066646138544,Low,Good
+33,Male,Dentist,Imphal,No,23.640013137154178,Medium,Good,No,23.047799960657894,Medium,Good
+26,Female,Commissioning editor,Ahmednagar,No,30.456210377144288,Low,Good,Yes,31.380562556944714,Low,Moderate
+30,Female,Research scientist (life sciences),Howrah,Yes,31.076482525946098,Medium,Moderate,No,32.194458733527355,High,Moderate
+34,Male,"Engineer, structural",Tezpur,No,21.303820190433687,Low,Good,No,22.542097379747492,High,Good
+35,Male,Phytotherapist,Maheshtala,No,29.449481472510353,High,Moderate,No,31.876260930288236,High,Good
+22,Male,Herpetologist,Katni,No,24.232313849666017,High,Good,No,25.392754935619884,Medium,Poor
+27,Female,"Administrator, Civil Service",Junagadh,No,26.785561313322823,Medium,Good,No,27.87093368333636,Medium,Good
+31,Female,Barista,Aurangabad,Yes,27.26100190993526,Medium,Moderate,Yes,27.86867551246571,Low,Moderate
+28,Female,"Surveyor, commercial/residential",Bally,Yes,28.2066740009055,Medium,Moderate,No,27.587423399298203,Medium,Poor
+23,Male,Equities trader,Jorhat,No,26.04814909890188,High,Good,No,27.12107588662429,Medium,Good
+32,Male,Archaeologist,Bikaner,Yes,19.896240257674094,Low,Good,No,21.061407330040087,Low,Poor
+22,Male,Product/process development scientist,Sangli-Miraj & Kupwad,No,22.765898371625156,Low,Good,No,23.498920348105216,High,Moderate
+33,Female,Architect,North Dumdum,No,25.481786450041717,Medium,Poor,No,25.98590886038255,Low,Moderate
+24,Male,Consulting civil engineer,Gurgaon,No,24.58855020454795,High,Good,No,24.585640588489433,Low,Good
+24,Female,Ecologist,Kochi,No,25.464061051028988,High,Poor,No,25.752943354491702,Low,Good
+26,Female,Seismic interpreter,Kollam,Yes,21.408054774751214,High,Good,Yes,22.297450395688305,Low,Poor
+27,Female,Community arts worker,Bhusawal,No,31.289975400908084,Low,Good,No,32.611945762510935,High,Good
+32,Female,English as a second language teacher,Nadiad,No,21.24560193355711,Medium,Moderate,No,21.672778870315394,Low,Good
+35,Female,"Presenter, broadcasting",Davanagere,No,29.02752642582844,Low,Good,No,28.506220246205327,High,Good
+27,Male,Politician's assistant,Secunderabad,No,16.81103267329948,Medium,Moderate,No,17.07682908191539,Low,Moderate
+23,Male,"Engineer, electrical",Delhi,No,18.601057942855974,Low,Good,Yes,18.797847366981028,High,Good
+25,Male,Naval architect,Kota,No,18.276220616504126,High,Poor,No,18.989196803467138,Medium,Moderate
+22,Male,Corporate investment banker,Anantapur,No,22.000454252673418,High,Moderate,No,21.257163567792844,Low,Good
+26,Female,Product manager,Madurai,No,26.335735984572956,Medium,Good,Yes,26.03832404850877,Medium,Moderate
+35,Female,Architectural technologist,Satna,No,31.94203955193123,Medium,Moderate,No,34.02458440424317,Low,Good
+35,Male,Glass blower/designer,Asansol,No,27.15974207914911,Medium,Good,No,28.601134924832284,Low,Moderate
+33,Male,Hydrographic surveyor,Noida,Yes,17.093129350644006,Low,Moderate,Yes,17.936155232262006,Medium,Moderate
+23,Male,Tourist information centre manager,Ramgarh,No,24.853802742006252,Low,Good,No,25.846125401801753,Medium,Moderate
+35,Male,Corporate treasurer,Varanasi,No,28.742017766722014,Low,Good,Yes,28.091550590931387,High,Poor
+27,Female,Estate manager/land agent,Uluberia,No,18.86890391118036,High,Good,No,19.846849929635756,Medium,Good
+29,Male,Field trials officer,Orai,No,19.699301454071872,Medium,Good,Yes,20.75626851076812,High,Moderate
+29,Female,Civil Service fast streamer,Ambarnath,No,22.487928015467627,Medium,Good,Yes,24.71869436070889,Low,Poor
+28,Female,Analytical chemist,Thrissur,No,21.536101082724688,Low,Good,No,22.96643350260019,Low,Good
+33,Female,Chief Marketing Officer,Rourkela,No,26.712402442675575,High,Good,No,28.119457483866267,Low,Moderate
+22,Male,Physiological scientist,Bhilwara,No,29.24364648378988,High,Good,No,29.744642072966588,Low,Good
+31,Female,Applications developer,Ambattur,No,24.273428283509364,Medium,Good,No,25.868353986899336,Medium,Poor
+23,Female,Geoscientist,Morbi,No,25.924212456722355,Low,Moderate,No,28.48943638407016,High,Poor
+28,Male,Patent examiner,Bokaro,No,17.624244064746385,Medium,Poor,No,18.013084457232228,Medium,Poor
+22,Male,Stage manager,Thanjavur,No,11.726254738556165,High,Good,No,12.946417519192877,Medium,Good
+34,Female,"Nurse, children's",Ichalkaranji,No,23.61054899441237,Medium,Moderate,No,25.5130069358059,Low,Poor
+35,Female,Proofreader,Naihati,No,28.297756275035887,Medium,Good,Yes,28.98582434912022,Medium,Good
+35,Male,"Nurse, adult",Bangalore,No,24.39492832236251,Low,Poor,No,25.195336927893827,Low,Good
+25,Male,Medical sales representative,Bhopal,No,25.98164138291108,High,Moderate,No,26.953851289485897,Low,Poor
+22,Male,"Engineer, drilling",Dibrugarh,Yes,26.731093464579907,Low,Good,No,28.59260687377678,Medium,Poor
+27,Male,Purchasing manager,Bikaner,No,24.204359333072357,Low,Moderate,No,26.716156939322858,Medium,Poor
+22,Male,Corporate treasurer,Muzaffarpur,No,37.93962363813954,Low,Good,No,38.50388376589327,Medium,Good
+26,Female,Food technologist,Bhatpara,No,29.024853158886657,Medium,Good,No,30.875601515727997,Low,Poor
+33,Female,Chiropractor,Anand,No,23.520969339191716,Low,Good,Yes,22.357246630327925,Medium,Good
+34,Male,Chartered accountant,Guna,No,21.389471591104787,Low,Good,No,21.316841521203273,Medium,Good
+23,Male,Accounting technician,Jalandhar,No,27.223519943398003,Low,Good,No,29.208279398772863,High,Good
+27,Male,Recycling officer,Narasaraopet,No,23.97751455925905,Low,Moderate,No,23.3974175637138,Medium,Good
+34,Male,Psychotherapist,Vellore,Yes,18.680569144944613,Medium,Good,No,20.12108418631213,Low,Poor
+31,Male,Event organiser,Mira-Bhayandar,No,20.920571968008236,Medium,Moderate,No,22.288796911349625,Medium,Poor
+24,Male,Theatre director,Bhavnagar,No,28.322347525708604,Low,Good,No,30.78097643196883,High,Moderate
+29,Female,Financial controller,Deoghar,Yes,16.423110316201782,Medium,Good,No,17.628919169925656,Medium,Poor
+34,Female,"Programme researcher, broadcasting/film/video",Asansol,No,26.71613494034639,High,Moderate,No,26.803527187536915,Medium,Moderate
+22,Male,"Surveyor, hydrographic",Tezpur,No,23.515763000238312,Low,Good,No,23.77156543359881,Low,Good
+25,Female,Neurosurgeon,Mysore,Yes,28.48886709466198,Low,Good,No,31.223324664876507,Low,Good
+25,Female,Commercial art gallery manager,Bhusawal,No,23.66470452688898,High,Good,No,23.68323038150209,High,Good
+32,Female,Careers adviser,Panihati,No,27.163602964429163,High,Good,No,27.475024159000533,Medium,Moderate
+29,Female,"Investment banker, corporate",Baranagar,Yes,26.984434029572732,Medium,Good,No,27.174033717856314,Medium,Good
+32,Male,Software engineer,Nanded,No,30.588113923257687,High,Poor,No,30.818760020715548,Low,Moderate
+31,Male,Sports coach,Kota,No,20.06818000201215,High,Good,No,20.839508539713698,Low,Moderate
+23,Male,Animal nutritionist,Mathura,Yes,22.023823827386764,High,Poor,Yes,23.04318887952848,Low,Good
+28,Male,Field seismologist,Buxar,No,31.355653451540718,Medium,Moderate,Yes,34.046662011538224,Medium,Good
+34,Male,"Pharmacist, hospital",Hindupur,No,28.787339035472566,Low,Good,No,29.2061860135233,Medium,Moderate
+26,Female,Training and development officer,Faridabad,No,25.72492062014467,High,Moderate,Yes,26.85968232392266,Medium,Poor
+35,Male,"Sound technician, broadcasting/film/video",Chandrapur,Yes,19.451461153949907,Medium,Good,No,18.929218542767284,Medium,Good
+27,Female,Training and development officer,Raiganj,No,30.9846054099931,Medium,Good,No,34.05235411931544,High,Moderate
+23,Male,Sports development officer,Parbhani,No,29.938272603640602,High,Good,Yes,32.61915413039643,Low,Good
+31,Female,Human resources officer,Bidhannagar,Yes,21.19280211977354,Medium,Good,Yes,22.898126925287816,Medium,Good
+34,Female,Counselling psychologist,Aurangabad,No,23.238251381951546,High,Good,Yes,23.445299357140573,High,Moderate
+25,Male,Emergency planning/management officer,Gangtok,No,32.76608290555159,Medium,Poor,No,34.04596285703165,Low,Good
+26,Female,Advertising art director,Tumkur,Yes,25.779346451810138,Medium,Good,No,27.70433025414315,Low,Moderate
+25,Male,Senior tax professional/tax inspector,Gandhidham,No,23.05267335354447,Medium,Moderate,No,24.044601597625054,Medium,Good
+35,Male,Charity fundraiser,Hubli–Dharwad,No,21.830358063084542,Medium,Good,Yes,23.34113563526501,Medium,Moderate
+27,Male,"Scientist, research (maths)",Patna,No,27.358883938480993,Medium,Good,Yes,27.09583111954477,Medium,Moderate
+24,Female,Warehouse manager,Kota,No,22.085487691564648,Low,Poor,No,24.655090939319297,Medium,Poor
+24,Female,Nature conservation officer,Ramgarh,No,17.69446540800972,Medium,Good,No,18.604691541228608,Medium,Moderate
+23,Female,Advertising account planner,Mahbubnagar,No,36.6551191639833,Low,Good,No,37.16834948093279,Low,Good
+24,Male,"Optician, dispensing",Hubli–Dharwad,No,21.85578561299067,Low,Good,No,21.972465719454735,Medium,Good
+32,Male,"Restaurant manager, fast food",Kota,No,23.73256462494207,Low,Poor,No,24.36841943048215,Low,Moderate
+29,Female,"Producer, television/film/video",Kumbakonam,No,18.98016948737114,Medium,Good,No,19.684160294338845,Medium,Poor
+35,Female,Applications developer,Vijayanagaram,Yes,18.98764390183602,Low,Good,No,20.05686283440911,Low,Good
+30,Female,Chief Strategy Officer,Vasai-Virar,No,27.892584389755008,Low,Good,No,25.934389332964297,High,Moderate
+24,Male,Clinical cytogeneticist,Nagaon,No,21.942135372068677,High,Good,No,22.496204600254217,Low,Poor
+27,Female,"Engineer, drilling",Srikakulam,No,29.335020273457815,Medium,Moderate,No,30.278617147457016,Medium,Good
+31,Female,"Engineer, control and instrumentation",Suryapet,Yes,20.51843113322492,Low,Good,No,21.3788999728162,Low,Moderate
+30,Female,Corporate investment banker,Tadepalligudem,No,19.382029028890898,High,Good,No,22.068548046971475,High,Moderate
+28,Male,Call centre manager,Kishanganj,No,19.238825604580256,Low,Good,No,21.498870804731226,Low,Good
+28,Male,Drilling engineer,Srikakulam,Yes,21.087228553944087,High,Good,No,23.55301108154087,High,Moderate
+33,Female,"Designer, ceramics/pottery",Muzaffarnagar,No,36.94433796834273,Medium,Poor,Yes,39.16123442336578,Low,Poor
+29,Female,Magazine features editor,Ramgarh,No,25.726247893400526,Medium,Good,No,27.333947237440828,Medium,Moderate
+27,Male,Location manager,Jorhat,Yes,19.44143853362617,High,Good,No,20.218621637377424,Medium,Good
